@@ -14,6 +14,7 @@ const lat = 44.94299;
 const profile = 'walking';
 const minutes = 10;
 
+// setup api query
 async function getIso() {
     const query = await fetch(
         `${urlBase}${profile}/${lon},${lat}?contours_minutes=${minutes}&polygons=true&access_token=${mapboxgl.accessToken}`,
@@ -24,6 +25,7 @@ async function getIso() {
     map.getSource('iso').setData(data);
 }
 
+// create a marker for the center of the isochrone polygon (chosen origin)
 const marker = new mapboxgl.Marker({
     color: '#314ccd'
 });
@@ -33,6 +35,8 @@ const lngLat = {
 };
 marker.setLngLat(lngLat).addTo(map);
 
+
+// add data source and layers to map.
 map.on('load', ()=>{
     map.addSource('iso', {
         type: 'geojson',
