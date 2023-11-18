@@ -7,3 +7,53 @@ const map = new mapboxgl.Map({
     zoom: 12
 });
 
+// isochrone
+const urlBase = 'https://api.mapbox.com/isochrone/v1/mapbox/';
+const lon = -93.20847;
+const lat = 44.94299;
+const profile = 'walking';
+const minutes = 10;
+
+async function getIso() {
+    const query = await fetch(
+        `${urlBase}${profile}/${lon},${lat}?contours_minutes=${minutes}&polygons=true&access_token=${mapboxgl.accessToken}`,
+        { method: 'GET' }
+    );
+    const data = await query.json();
+    
+    map.getSource('iso').setData(data);
+}
+
+const marker = new mapboxgl.Marker({
+    color: '#314ccd'
+});
+const lngLat = {
+    lon: lon,
+    lat: lat
+};
+marker.setLngLat(lngLat).addTo(map);
+
+map.on('load', ()=>{
+    map.addSource('iso', {
+        type: 'geojson',
+        data: {
+            type: 'FeatureCollection',
+            features: []
+        }
+    });
+
+    map.addLayer(
+        {
+            id: 'isoLayer',
+            type: 'fill',
+            source: 'iso',
+            layout: {},
+            paint: {
+                'fill-color': '#5a3fc0',
+                'fill-opacity': 0.3
+            }
+        },
+        'poi-label'
+    )
+    getIso();
+})
