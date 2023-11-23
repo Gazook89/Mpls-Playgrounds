@@ -1,3 +1,32 @@
+const playgrounds = {
+    'type': 'FeatureCollection',
+    'features': [
+        {
+            'type': 'Feature',
+            'properties': {
+                'Name': 'Cooper Elementary Schoolyard',
+                'Address': '3309 45th Ave S'
+            },
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [-93.20847, 44.94299]
+            }
+        },
+        {
+            'type': 'Feature',
+            'properties': {
+                'Name': 'Longfellow Park',
+                'Address': '123 fake Street'
+            },
+            'geometry': {
+                'type': 'Point',
+                'coordinates': [-93.2199, 44.9408]
+            }
+            
+        }
+    ]
+}
+
 mapboxgl.accessToken = 'pk.eyJ1IjoiZ2F6b29rODkiLCJhIjoiY2xvejlteGMxMGEzYjJvbGV5NXRiNHBkZSJ9.Tuqh-azZda6b4Tb0bYDrIw';
 
 const map = new mapboxgl.Map({
@@ -11,6 +40,9 @@ const map = new mapboxgl.Map({
 const urlBase = 'https://api.mapbox.com/isochrone/v1/mapbox/';
 const lon = -93.20847;
 const lat = 44.94299;
+const lon2 = -93.2199;
+const lat2 = 44.9408;
+
 const profile = 'walking';
 const minutes = 10;
 
@@ -22,6 +54,7 @@ async function getIso() {
     );
     const data = await query.json();
     
+    console.log(data)
     map.getSource('iso').setData(data);
 }
 
