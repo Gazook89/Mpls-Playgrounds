@@ -46,16 +46,32 @@ const lat2 = 44.9408;
 const profile = 'walking';
 const minutes = 10;
 
+
+
 // setup api query
-async function getIso() {
-    const query = await fetch(
-        `${urlBase}${profile}/${lon},${lat}?contours_minutes=${minutes}&polygons=true&access_token=${mapboxgl.accessToken}`,
-        { method: 'GET' }
-    );
-    const data = await query.json();
+async function getIso(points) {
+
+    let isoFeatures = [];
+
+    const promises = points.features.map((point)=>{
+        const coordinates = point.geometry.coordinates;
+        fetch(`${urlBase}${profile}/${coordinates[0]},${coordinates[1]}?contours_minutes=${minutes}&polygons=true&access_token=${mapboxgl.accessToken}`,
+    { method: 'GET' }).then((response)=>{
+            return response.json();
+        }).then((data)=>{
+            isoFeatures.push(data.features);
+            map.getSource('iso')._data.features.push(data.features);
+            console.log(map.getSource('iso'))
+            return isoFeatures
+        });
+
+    })
+
+    Promise.all(promises);
+
+    // data = await query[0].json();
     
-    console.log(data)
-    map.getSource('iso').setData(data);
+    // map.getSource('iso').setData(data);
 }
 
 // create a marker for the center of the isochrone polygon (chosen origin)
@@ -92,5 +108,5 @@ map.on('load', ()=>{
         },
         'poi-label'
     )
-    getIso();
+    getIso(playgrounds);
 })
