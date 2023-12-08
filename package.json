@@ -1,0 +1,25 @@
+{
+  "name": "map-box-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "puppet-scrape.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^4.15.1"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "googleapis": "^129.0.0",
+    "mapbox-gl": "^3.0.0"
+  }
+}

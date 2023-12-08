@@ -1,0 +1,4 @@
+[out:json];
+area["name"="Minneapolis"]->.searchArea;
+node["leisure"="playground"](area.searchArea);
+out;
