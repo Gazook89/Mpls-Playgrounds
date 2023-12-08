@@ -21,18 +21,34 @@
 //         fs.writeFileSync('mps-properties-output.json', JSON.stringify(jsonArray, null, 2));
 //     });
 
+
+
 const { google } = require('googleapis');
 const fs = require('fs');
+// Load environment variables from .env file
+require('dotenv').config();
+
+
+// Access environment variables
+const apiKeyOrServiceAccountKeyPath = process.env.GOOGLE_SHEETS_KEY_PATH || '/absolute/path/to/your/keyfile.json';
 
 const spreadsheetId = '1s2ftbM7Bj5806vNdltHM5sIboBqBw4s-ujJB2Em6xPA';
 const range = 'Full List!A1:F75';
-const apiKeyOrServiceAccountKeyPath = process.env.GOOGLE_SHEETS_KEY_PATH;
+// Load the service account key JSON file
+const keyPath = apiKeyOrServiceAccountKeyPath;
+const keyFile = require(keyPath);
 
+// Create an authentication client
+const authClient = new google.auth.JWT({
+    email: keyFile.client_email,
+    key: keyFile.private_key,
+    scopes: ['https://www.googleapis.com/auth/spreadsheets'],
+});
+
+// Set the authentication client in the sheets API
 const sheetsApi = google.sheets({
     version: 'v4',
-    auth: apiKeyOrServiceAccountKeyPath
-        ? require(apiKeyOrServiceAccountKeyPath)
-        : undefined,
+    auth: authClient,
 });
 
 sheetsApi.spreadsheets.values.get({
