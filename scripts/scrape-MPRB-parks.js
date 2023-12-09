@@ -17,6 +17,7 @@
 // Import required modules
 const puppeteer = require('puppeteer');
 const fs = require('fs');
+const geocodeAddresses = require('./geocode-addresses');
 
 // Constants
 const BASE_URL = 'https://www.minneapolisparks.org/parks-destinations/park__destination_search/?fwp_outdoor_amenity=playground';
@@ -82,16 +83,21 @@ async function getLocationData() {
     await browser.close();
 
     // Return the aggregated location data
-    return locationsData;
+    console.log(locationsData)
+
+    const geocodedLocations = geocodeAddresses(locationsData)
+    console.log(geocodedLocations)
+
+    return geocodedLocations;
 }
 
 // Main execution block (IIFE)
 (async () => {
     // Call the function to get location data
-    const locationsData = await getLocationData();
+    const geocodedLocations = await getLocationData();
 
     // Write the geojsonData to a JSON file
-    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(locationsData, null, 2));
+    fs.writeFileSync(OUTPUT_FILE, JSON.stringify(geocodedLocations, null, 2));
 
     // Log a message indicating the successful write
     console.log(`Data has been written to ${OUTPUT_FILE}`);
