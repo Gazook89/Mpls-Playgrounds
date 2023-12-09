@@ -9,6 +9,7 @@
 // Required Libraries
 const { google } = require('googleapis');
 const fs = require('fs');
+const geocodeAddresses = require('./geocode-addresses'); // Import geocoding function
 
 // Load environment variables from .env file
 require('dotenv').config();
@@ -60,6 +61,7 @@ sheetsApi.spreadsheets.values.get({
             const row = rows[i];
             const row_data = {};
 
+            // Map each cell value to the corresponding header and create a JSON object
             for (let j = 0; j < headers.length; j++) {
                 row_data[headers[j]] = row[j];
             }
@@ -67,8 +69,11 @@ sheetsApi.spreadsheets.values.get({
             jsonArray.push(row_data);
         }
 
+        // Perform geocoding on addresses in the JSON array
+        const geocodedLocations = await geocodeAddresses(jsonArray);
+
         // Write jsonArray to a JSON file
-        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(jsonArray, null, 2));
+        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(geocodedLocations, null, 2));
         console.log(`Data has been written to ${OUTPUT_FILE}`);
     } else {
         console.log('No data found.');
