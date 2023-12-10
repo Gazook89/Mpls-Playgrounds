@@ -70,7 +70,15 @@ sheetsApi.spreadsheets.values.get({
         }
 
         // Perform geocoding on addresses in the JSON array
-        const geocodedLocations = await geocodeAddresses(jsonArray);
+        const geocodedLocations = {
+            type: "FeatureCollection",
+            author: "John Jones",
+            last_modified: new Date().toISOString(),
+            description: "This is a geojson collection of MPS properties as listed on https://facilities.mpls.k12.mn.us/mps_buildings.  Processed through Mapbox APIs.",    
+            features: await geocodeAddresses(jsonArray)
+        };
+
+
 
         // Write jsonArray to a JSON file
         fs.writeFileSync(OUTPUT_FILE, JSON.stringify(geocodedLocations, null, 2));
