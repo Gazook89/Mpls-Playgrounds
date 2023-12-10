@@ -85,7 +85,13 @@ async function getLocationData() {
     // Return the aggregated location data
     console.log(locationsData)
 
-    const geocodedLocations = geocodeAddresses(locationsData)
+    const geocodedLocations = {
+        type: "FeatureCollection",
+        author: "John Jones",
+        last_modified: new Date().toISOString(),
+        description: "This is a geojson collection of MPRB parks THAT HAVE PLAYGROUNDS as pulled from https://www.minneapolisparks.org/parks-destinations/park__destination_search/?fwp_outdoor_amenity=playground.  Processed through Mapbox APIs.",
+        features: await geocodeAddresses(locationsData)
+    }
     console.log(geocodedLocations)
 
     return geocodedLocations;

@@ -24,11 +24,11 @@ map.on('load', () => {
             const responses = await Promise.all(filePaths.map(filePath => fetch(filePath)));
 
             // Extract JSON data from responses
-            const jsonDataArray = await Promise.all(responses.map(response => response.json()));
+            const geoJSONObject = await Promise.all(responses.map(response => response.json()));
 
 
             // Filter data based on category property
-            const filteredDataArray = jsonDataArray.map((jsonData, index) => {
+            const filteredDataArray = geoJSONObject.features.map((jsonData, index) => {
                 if (jsonData[0]?.hasOwnProperty('category')) {
                     return jsonData.filter(item => (item.category === 'Elementary School') || (item.name.includes('Elementary')) );
                 } else {
