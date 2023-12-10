@@ -1,5 +1,7 @@
 const path = require('path');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
+const Dotenv = require('dotenv-webpack');
+const webpack = require('webpack');
 
 module.exports = {
     mode: 'development', // or 'production'
@@ -19,16 +21,28 @@ module.exports = {
 		  patterns: [
 			{ from: 'src/index.html', to: 'index.html' },
 			{ from: 'src/css/styles.css', to: 'css/styles.css' },
-			{ from: 'src/mprb-output.json', to: 'mprb-output.json' },
+			{ from: 'data', to: 'data' }, 
 		  ],
 		}),
-	  ],
-	  module: {
+		new Dotenv(),
+		new webpack.DefinePlugin({
+            'MAPBOX_API_TOKEN': JSON.stringify(process.env.MAPBOX_API_TOKEN),
+        }),
+	],
+	module: {
 		rules: [
-		  {
-			test: /\.css$/,
-			use: ['style-loader', 'css-loader'],
-		  },
+			{
+				test: /\.css$/,
+				use: ['style-loader', 'css-loader'],
+			},
 		],
-	  },
+	},
+	resolve: {
+		fallback: {
+			os: require.resolve('os-browserify/browser'),
+			crypto: require.resolve('crypto-browserify'),
+			path: require.resolve('path-browserify'),
+			stream: require.resolve('stream-browserify')
+		},
+	},
 };

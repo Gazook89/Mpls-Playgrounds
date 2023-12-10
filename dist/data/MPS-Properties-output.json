@@ -1,10 +1,6 @@
 [
   {
     "name": "Anishinabe Elementary School (located at Sullivan Elementary School)",
-    "street": "3100 East 28th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3100 East 28th St Minneapolis MN",
     "geojson": {
       "id": "address.646510035355632",
@@ -73,10 +69,6 @@
   },
   {
     "name": "Armatage Elementary School",
-    "street": "2501 West 56th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "2501 West 56th St Minneapolis MN",
     "geojson": {
       "id": "address.1822122498307596",
@@ -146,10 +138,6 @@
   },
   {
     "name": "Bancroft Elementary School",
-    "street": "3829 13th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3829 13th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.00554074893294",
@@ -218,10 +206,6 @@
   },
   {
     "name": "Barton Elementary School",
-    "street": "4237 Colfax Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4237 Colfax Ave S Minneapolis MN",
     "geojson": {
       "id": "address.4860793932886810",
@@ -291,10 +275,6 @@
   },
   {
     "name": "Bethune Arts Elementary School",
-    "street": "919 Emerson Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "919 Emerson Ave N Minneapolis MN",
     "geojson": {
       "id": "address.132700473925004",
@@ -366,10 +346,6 @@
   },
   {
     "name": "Bryn Mawr Elementary School",
-    "street": "252 Upton Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "252 Upton Ave S Minneapolis MN",
     "geojson": {
       "id": "address.7778593113640834",
@@ -438,10 +414,6 @@
   },
   {
     "name": "Burroughs Elementary School",
-    "street": "1601 West 50th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1601 West 50th St Minneapolis MN",
     "geojson": {
       "id": "address.7408306791188856",
@@ -511,10 +483,6 @@
   },
   {
     "name": "Cityview Elementary School",
-    "street": "3350 4th St N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3350 4th St N Minneapolis MN",
     "geojson": {
       "id": "address.1591604851983364",
@@ -586,10 +554,6 @@
   },
   {
     "name": "Dowling Elementary School",
-    "street": "3900 West River Parkway",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3900 West River Parkway Minneapolis MN",
     "geojson": {
       "id": "address.6522695172946708",
@@ -659,10 +623,6 @@
   },
   {
     "name": "Ella Baker Global Studies & Humanities School (formerly Jefferson Global Studies & Humanities)",
-    "street": "1200 West 26th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1200 West 26th St Minneapolis MN",
     "geojson": {
       "id": "address.3356933572841182",
@@ -732,10 +692,6 @@
   },
   {
     "name": "Emerson Dual Language School",
-    "street": "120 15th St W",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "120 15th St W Minneapolis MN",
     "geojson": {
       "id": "address.6350731799156398",
@@ -807,10 +763,6 @@
   },
   {
     "name": "Field Elementary School",
-    "street": "4645 4th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4645 4th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.4545977207284788",
@@ -880,10 +832,6 @@
   },
   {
     "name": "Folwell Elementary School",
-    "street": "3611 20th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3611 20th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.4072329368405614",
@@ -952,10 +900,6 @@
   },
   {
     "name": "Green Central Dual Language Elementary School",
-    "street": "3416 4th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3416 4th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.4545977207284788",
@@ -1025,10 +969,6 @@
   },
   {
     "name": "Hale Elementary School",
-    "street": "5330 13th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "5330 13th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.00554172644309",
@@ -1097,10 +1037,6 @@
   },
   {
     "name": "Hall STEM Academy",
-    "street": "1601 Aldrich Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1601 Aldrich Ave N Minneapolis MN",
     "geojson": {
       "id": "address.6552456229144652",
@@ -1172,10 +1108,6 @@
   },
   {
     "name": "Hiawatha Elementary School",
-    "street": "4201 42nd Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4201 42nd Ave S Minneapolis MN",
     "geojson": {
       "id": "address.46092608637868",
@@ -1245,10 +1177,6 @@
   },
   {
     "name": "Hmong International Academy",
-    "street": "1501 30th Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1501 30th Ave N Minneapolis MN",
     "geojson": {
       "id": "address.2321922124663704",
@@ -1320,10 +1248,6 @@
   },
   {
     "name": "Howe Elementary School",
-    "street": "3733 43rd Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3733 43rd Ave S Minneapolis MN",
     "geojson": {
       "id": "address.5389137438385838",
@@ -1393,10 +1317,6 @@
   },
   {
     "name": "Kenny Elementary School",
-    "street": "5720 Emerson Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "5720 Emerson Ave S Minneapolis MN",
     "geojson": {
       "id": "address.1690155355801838",
@@ -1466,10 +1386,6 @@
   },
   {
     "name": "Kenwood Elementary School",
-    "street": "2013 Penn Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "2013 Penn Ave S Minneapolis MN",
     "geojson": {
       "id": "address.4810380335836518",
@@ -1539,10 +1455,6 @@
   },
   {
     "name": "Lake Harriet Lower Elementary School",
-    "street": "4030 Chowen Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4030 Chowen Ave S Minneapolis MN",
     "geojson": {
       "id": "address.3380040669837134",
@@ -1612,10 +1524,6 @@
   },
   {
     "name": "Lake Harriet Upper Elementary School",
-    "street": "4912 Vincent Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4912 Vincent Ave S Minneapolis MN",
     "geojson": {
       "id": "address.5558998423746536",
@@ -1685,10 +1593,6 @@
   },
   {
     "name": "Lake Nokomis Keewaydin Elementary School",
-    "street": "5209 30th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "5209 30th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.3809928436514514",
@@ -1758,10 +1662,6 @@
   },
   {
     "name": "Lake Nokomis Wenonah Elementary School",
-    "street": "5625 23rd Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "5625 23rd Ave S Minneapolis MN",
     "geojson": {
       "id": "address.6923750888241644",
@@ -1830,10 +1730,6 @@
   },
   {
     "name": "Las Estrellas Dual Language Elementary School",
-    "street": "1201 University Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1201 University Ave Minneapolis MN",
     "geojson": {
       "id": "address.00554131223013",
@@ -1902,10 +1798,6 @@
   },
   {
     "name": "Loring Elementary School",
-    "street": "2600 44th Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "2600 44th Ave N Minneapolis MN",
     "geojson": {
       "id": "address.71675106938884",
@@ -1977,10 +1869,6 @@
   },
   {
     "name": "Lucy Craft Laney Elementary School",
-    "street": "3333 Penn Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3333 Penn Ave N Minneapolis MN",
     "geojson": {
       "id": "address.3362235687734638",
@@ -2052,10 +1940,6 @@
   },
   {
     "name": "Lyndale Elementary School",
-    "street": "312 West 34th",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "312 West 34th Minneapolis MN",
     "geojson": {
       "id": "address.2439900948445818",
@@ -2125,10 +2009,6 @@
   },
   {
     "name": "Marcy Arts Elementary School",
-    "street": "415 4th Ave SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "415 4th Ave SE Minneapolis MN",
     "geojson": {
       "id": "address.8298855963171576",
@@ -2199,10 +2079,6 @@
   },
   {
     "name": "Nellie Stone Johnson Elementary School",
-    "street": "807 27th Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "807 27th Ave N Minneapolis MN",
     "geojson": {
       "id": "address.5870458775033224",
@@ -2274,10 +2150,6 @@
   },
   {
     "name": "Northrop Elementary School",
-    "street": "4315 31st Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "4315 31st Ave S Minneapolis MN",
     "geojson": {
       "id": "address.6106206350050398",
@@ -2347,10 +2219,6 @@
   },
   {
     "name": "Pillsbury Elementary School",
-    "street": "2250 Garfield St NE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "2250 Garfield St NE Minneapolis MN",
     "geojson": {
       "id": "address.2177763823801250",
@@ -2421,10 +2289,6 @@
   },
   {
     "name": "Pratt Elementary School",
-    "street": "66 Malcolm Ave SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "66 Malcolm Ave SE Minneapolis MN",
     "geojson": {
       "id": "address.1123726734532790",
@@ -2496,10 +2360,6 @@
   },
   {
     "name": "Seward Montessori Elementary School",
-    "street": "2309 28th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "2309 28th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.2215617822954492",
@@ -2569,10 +2429,6 @@
   },
   {
     "name": "Sullivan STEAM School",
-    "street": "3100 28th St E",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "3100 28th St E Minneapolis MN",
     "geojson": {
       "id": "address.646510035355632",
@@ -2643,10 +2499,6 @@
   },
   {
     "name": "Waite Park Elementary School",
-    "street": "1800 34th Ave NE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "1800 34th Ave NE Minneapolis MN",
     "geojson": {
       "id": "address.2143765085989332",
@@ -2718,10 +2570,6 @@
   },
   {
     "name": "Webster Elemnetary School",
-    "street": "425 5th St NE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "425 5th St NE Minneapolis MN",
     "geojson": {
       "id": "address.1033835298657426",
@@ -2791,10 +2639,6 @@
   },
   {
     "name": "Whittier Elementary School",
-    "street": "315 West 26th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "315 West 26th St Minneapolis MN",
     "geojson": {
       "id": "address.3356933572841182",
@@ -2863,10 +2707,6 @@
   },
   {
     "name": "Windom Elementary School",
-    "street": "5821 Wentworth Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Elementary School",
     "address": "5821 Wentworth Ave S Minneapolis MN",
     "geojson": {
       "id": "address.2423421056374402",
@@ -2936,10 +2776,6 @@
   },
   {
     "name": "Andersen United Middle School (includes Andersen Dual Language Middle School)",
-    "street": "1098 Andersen Lane",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1098 Andersen Lane Minneapolis MN",
     "geojson": {
       "id": "address.7926428491312332",
@@ -3009,10 +2845,6 @@
   },
   {
     "name": "Anthony Middle School",
-    "street": "5757 Irving Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "5757 Irving Ave S Minneapolis MN",
     "geojson": {
       "id": "address.8824746389616250",
@@ -3082,10 +2914,6 @@
   },
   {
     "name": "Anwatin Middle School",
-    "street": "256 Upton Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "256 Upton Ave S Minneapolis MN",
     "geojson": {
       "id": "address.7778593113640834",
@@ -3154,10 +2982,6 @@
   },
   {
     "name": "Franklin STEAM Middle School",
-    "street": "1501 Aldrich Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1501 Aldrich Ave N Minneapolis MN",
     "geojson": {
       "id": "address.6552456229144652",
@@ -3229,10 +3053,6 @@
   },
   {
     "name": "Justice Page Middle School",
-    "street": "1 West 49th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1 West 49th St Minneapolis MN",
     "geojson": {
       "id": "address.6664410012166946",
@@ -3302,10 +3122,6 @@
   },
   {
     "name": "Northeast Middle School",
-    "street": "1830 St. Anthony Parkway",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1830 St. Anthony Parkway Minneapolis MN",
     "geojson": {
       "id": "address.7764689237147336",
@@ -3377,10 +3193,6 @@
   },
   {
     "name": "Olson Middle School",
-    "street": "1607 51st Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1607 51st Ave N Minneapolis MN",
     "geojson": {
       "id": "address.316355880148864",
@@ -3452,10 +3264,6 @@
   },
   {
     "name": "River Bend Education Center",
-    "street": "1510 Glenwood Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "1510 Glenwood Ave Minneapolis MN",
     "geojson": {
       "id": "address.7419972746004440",
@@ -3525,10 +3333,6 @@
   },
   {
     "name": "Sanford Middle School",
-    "street": "3524 42nd Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Middle School",
     "address": "3524 42nd Ave S Minneapolis MN",
     "geojson": {
       "id": "address.46092608637868",
@@ -3598,10 +3402,6 @@
   },
   {
     "name": "Edison High School",
-    "street": "700 22nd Ave NE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "700 22nd Ave NE Minneapolis MN",
     "geojson": {
       "id": "address.2362089902937700",
@@ -3673,10 +3473,6 @@
   },
   {
     "name": "FAIR School for Arts",
-    "street": "10 South 10th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "10 South 10th St Minneapolis MN",
     "geojson": {
       "id": "address.2184585120657518",
@@ -3746,10 +3542,6 @@
   },
   {
     "name": "Harrison Education Center",
-    "street": "501 Irving Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "501 Irving Ave N Minneapolis MN",
     "geojson": {
       "id": "address.5039902081435678",
@@ -3819,10 +3611,6 @@
   },
   {
     "name": "Henry High School",
-    "street": "4320 Newton Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "4320 Newton Ave N Minneapolis MN",
     "geojson": {
       "id": "address.4435302241497418",
@@ -3894,10 +3682,6 @@
   },
   {
     "name": "Longfellow High School",
-    "street": "3717 East 31st St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "3717 East 31st St Minneapolis MN",
     "geojson": {
       "id": "address.4566070835318930",
@@ -3966,10 +3750,6 @@
   },
   {
     "name": "North Community High School",
-    "street": "1500 James Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "1500 James Ave N Minneapolis MN",
     "geojson": {
       "id": "address.953463588946568",
@@ -4041,10 +3821,6 @@
   },
   {
     "name": "Roosevelt High School",
-    "street": "4029 28th Ave. S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "4029 28th Ave. S Minneapolis MN",
     "geojson": {
       "id": "address.3622054831681788",
@@ -4114,10 +3890,6 @@
   },
   {
     "name": "South High School includes South All Nations program",
-    "street": "3131 19th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "3131 19th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.5518207332721402",
@@ -4187,10 +3959,6 @@
   },
   {
     "name": "Southwest High School",
-    "street": "3414 West 47th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "3414 West 47th St Minneapolis MN",
     "geojson": {
       "id": "address.505378449786600",
@@ -4260,10 +4028,6 @@
   },
   {
     "name": "Washburn High School",
-    "street": "201 West 49th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "201 West 49th St Minneapolis MN",
     "geojson": {
       "id": "address.6664410012166946",
@@ -4333,10 +4097,6 @@
   },
   {
     "name": "Wellstone High School",
-    "street": "1501 Hennepin Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "High School",
     "address": "1501 Hennepin Ave Minneapolis MN",
     "geojson": {
       "id": "address.2445263802823632",
@@ -4405,11 +4165,7 @@
     }
   },
   {
-    "name": "Cooper Elementary",
-    "street": "3239 44th Ave S",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
+    "name": "Cooper",
     "address": "3239 44th Ave S Minneapolis MN",
     "geojson": {
       "id": "address.6990371495325646",
@@ -4478,11 +4234,7 @@
     }
   },
   {
-    "name": "Gordon Elementary",
-    "street": "2220 16th Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
+    "name": "Gordon",
     "address": "2220 16th Ave N Minneapolis MN",
     "geojson": {
       "id": "address.72940239842316",
@@ -4552,10 +4304,6 @@
   },
   {
     "name": "Hamilton",
-    "street": "4119 Dupont Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
     "address": "4119 Dupont Ave N Minneapolis MN",
     "geojson": {
       "id": "address.4071825976744986",
@@ -4627,10 +4375,6 @@
   },
   {
     "name": "Lincoln",
-    "street": "2131 N 12th Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
     "address": "2131 N 12th Ave Minneapolis MN",
     "geojson": {
       "id": "address.3845742743646126",
@@ -4699,11 +4443,7 @@
     }
   },
   {
-    "name": "Tuttle Elementary",
-    "street": "1042 18th Ave SE",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
+    "name": "Tuttle",
     "address": "1042 18th Ave SE Minneapolis MN",
     "geojson": {
       "id": "address.567432666817114",
@@ -4775,10 +4515,6 @@
   },
   {
     "name": "Victory Memorial Ice Arena",
-    "street": "1900 N 42nd Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
     "address": "1900 N 42nd Ave Minneapolis MN",
     "geojson": {
       "id": "address.5895869795634888",
@@ -4847,11 +4583,7 @@
     }
   },
   {
-    "name": "Willard Elementary",
-    "street": "2220 16th Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Closed",
+    "name": "Willard",
     "address": "2220 16th Ave N Minneapolis MN",
     "geojson": {
       "id": "address.72940239842316",
@@ -4921,10 +4653,6 @@
   },
   {
     "name": "Center for Adult Learning (includes Transition Plus)",
-    "street": "2015 East Lake St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "2015 East Lake St Minneapolis MN",
     "geojson": {
       "id": "address.7755400015128298",
@@ -4994,10 +4722,6 @@
   },
   {
     "name": "John B. Davis Educational Service Center (includes administrative offices, MPS Online School and Minneapolis Academy & Career Center)",
-    "street": "1250 West Broadway Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "1250 West Broadway Ave Minneapolis MN",
     "geojson": {
       "id": "address.3361614486939636",
@@ -5067,10 +4791,6 @@
   },
   {
     "name": "MPS Maintenance and Operations",
-    "street": "1225 N 7th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "1225 N 7th St Minneapolis MN",
     "geojson": {
       "id": "address.8609195273517936",
@@ -5140,10 +4860,6 @@
   },
   {
     "name": "Nutrition Center",
-    "street": "812 Plymouth Ave",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "812 Plymouth Ave Minneapolis MN",
     "geojson": {
       "id": "address.5704072880902290",
@@ -5213,10 +4929,6 @@
   },
   {
     "name": "Transportation Center",
-    "street": "1001 2nd Ave N",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "1001 2nd Ave N Minneapolis MN",
     "geojson": {
       "id": "address.6199066870841322",
@@ -5286,10 +4998,6 @@
   },
   {
     "name": "Wilder (includes Metro Education Services, Early Childhood Special Education, Heritage High School)",
-    "street": "932 East 34th St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "932 East 34th St Minneapolis MN",
     "geojson": {
       "id": "address.8272577962739750",
@@ -5363,10 +5071,6 @@
   },
   {
     "name": "YWCA Fieldhouse",
-    "street": "2121 East Lake St",
-    "city": "Minneapolis",
-    "state": "MN",
-    "category": "Administrative & Misc",
     "address": "2121 East Lake St Minneapolis MN",
     "geojson": {
       "id": "address.7755400015128298",

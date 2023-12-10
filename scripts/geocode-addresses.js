@@ -15,7 +15,7 @@ async function geocodeAddresses(locationsData) {
 
 	  if (data.features && data.features.length > 0) {
 		const geojson = data.features[0];
-		geojsonData.push({ name: location.name, address: location.address, url: location.url, geojson });
+		geojsonData.push({ ...location, geojson });
 	  }
 	} catch (error) {
 	  console.error(`Error geocoding address for ${location.name}: ${error.message}`);
