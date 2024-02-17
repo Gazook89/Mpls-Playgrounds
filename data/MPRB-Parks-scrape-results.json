@@ -1,0 +1,6314 @@
+{
+  "type": "FeatureCollection",
+  "author": "John Jones",
+  "last_modified": "2023-12-10T04:26:11.357Z",
+  "source_agency": {
+    "long": "Minneapolis Parks and Rec Board",
+    "short": "MPRB"
+  },
+  "description": "This is a geojson collection of MPRB parks THAT HAVE PLAYGROUNDS as pulled from https://www.minneapolisparks.org/parks-destinations/park__destination_search/?fwp_outdoor_amenity=playground.  Processed through Mapbox APIs.",
+  "features": [
+    {
+      "id": "address.7984847288769148",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkYjUzMjY1MC1hNDcyLTQzNjctOTc5My0yMDczOTdhNjIxZjA",
+        "name": "26th Avenue North Overlook",
+        "address": "2500 W 57th St. Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/26th-avenue-north-overlook/"
+      },
+      "text": "West 57th Street",
+      "place_name": "2500 West 57th Street, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.311288,
+        44.900729
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.311288,
+          44.900729
+        ]
+      },
+      "address": "2500",
+      "context": [
+        {
+          "id": "neighborhood.16764140",
+          "mapbox_id": "dXJuOm1ieHBsYzovOHpz",
+          "wikidata": "Q4792898",
+          "text": "Armatage"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1670645867725086",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo3MDM0M2E1NC1kNDEyLTQ3NjktYTVlNS04NzRhZDMzMjJhNDg",
+        "name": "Lyndale Farmstead Park",
+        "address": "3900 Bryant Ave. S Minneapolis, MN 55409",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/lyndale_farmstead_park/"
+      },
+      "text": "Bryant Avenue South",
+      "place_name": "3900 Bryant Avenue South, Minneapolis, Minnesota 55409, United States",
+      "center": [
+        -93.29136,
+        44.93211
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29136,
+          44.93211
+        ]
+      },
+      "address": "3900",
+      "context": [
+        {
+          "id": "neighborhood.181824748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDdFpzN0E",
+          "wikidata": "Q5328557",
+          "text": "East Harriet"
+        },
+        {
+          "id": "postcode.189288172",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGhPN0E",
+          "text": "55409"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3975773401475148",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkOTIwM2RlNC03NTIzLTQ0MjMtYjgwOS01NDY4ZjU4ZWQ3N2Y",
+        "name": "Luxton Park",
+        "address": "112 Williams Ave. SE Minneapolis, MN 55414",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/luxton_park/"
+      },
+      "text": "Southeast Williams Avenue",
+      "place_name": "112 Southeast Williams Avenue, Minneapolis, Minnesota 55414, United States",
+      "matching_text": "Williams Avenue Southeast",
+      "matching_place_name": "112 Williams Avenue Southeast, Minneapolis, Minnesota 55414, United States",
+      "center": [
+        -93.21892,
+        44.96818
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21892,
+          44.96818
+        ]
+      },
+      "address": "112",
+      "context": [
+        {
+          "id": "neighborhood.518434028",
+          "mapbox_id": "dXJuOm1ieHBsYzpIdWFzN0E",
+          "wikidata": "Q7250792",
+          "text": "Prospect Park"
+        },
+        {
+          "id": "postcode.189329132",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGp1N0E",
+          "text": "55414"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7921308202430094",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoxN2QwNzgyNy1hMWViLTQ0NGUtYTY3My0xMDM3NGUxMTBmMmE",
+        "name": "Reserve Block 40 Park",
+        "address": "3501 W 24th St. Minneapolis, MN 55416",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/reserve_block_40_park/"
+      },
+      "text": "24th Street West",
+      "place_name": "3501 24th Street West, Minneapolis, Minnesota 55416, United States",
+      "matching_text": "W 24th St",
+      "matching_place_name": "3501 W 24th St, Minneapolis, Minnesota 55416, United States",
+      "center": [
+        -93.328275,
+        44.959655
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.328275,
+          44.959655
+        ]
+      },
+      "address": "3501",
+      "context": [
+        {
+          "id": "neighborhood.76049644",
+          "mapbox_id": "dXJuOm1ieHBsYzpCSWhzN0E",
+          "text": "Bryn-Mawr"
+        },
+        {
+          "id": "postcode.189345516",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGt1N0E",
+          "text": "55416"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.113327628976684",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjphNjNlZDkyNS00ZGY5LTRhOTEtYmJkMC04MTg3ZjZiYjE0YWM",
+        "name": "Rev. Dr. Martin Luther King, Jr. Park",
+        "address": "4055 Nicollet Ave. S Minneapolis, MN 55409",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/rev_dr_martin_luther_king_jr_park/"
+      },
+      "text": "Nicollet Avenue South",
+      "place_name": "4055 Nicollet Avenue South, Minneapolis, Minnesota 55409, United States",
+      "center": [
+        -93.27731,
+        44.929253
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27731,
+          44.929253
+        ]
+      },
+      "address": "4055",
+      "context": [
+        {
+          "id": "neighborhood.333188332",
+          "mapbox_id": "dXJuOm1ieHBsYzpFOXdNN0E",
+          "wikidata": "Q14692744",
+          "text": "King Field"
+        },
+        {
+          "id": "postcode.189288172",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGhPN0E",
+          "text": "55409"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6234394063621386",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkcjowOGNlNDdlMS0xMDgyLTQ2ZGMtODA1ZC0wYjg2YTQ4MTJiNDE",
+        "name": "Riverside Park",
+        "address": "2820 S Eighth St. Minneapolis, MN 55454",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/riverside_park/"
+      },
+      "text": "South 8th Street",
+      "place_name": "2820 South 8th Street, Minneapolis, Minnesota 55454, United States",
+      "center": [
+        -93.232819,
+        44.965309
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.232819,
+          44.965309
+        ],
+        "interpolated": true
+      },
+      "address": "2820",
+      "context": [
+        {
+          "id": "neighborhood.99896556",
+          "mapbox_id": "dXJuOm1ieHBsYzpCZlJNN0E",
+          "text": "Cedar Riverside"
+        },
+        {
+          "id": "postcode.189632236",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMDJPN0E",
+          "text": "55454"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1908650990336368",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo0ZDA5YmU3ZC04Njc0LTQxNzctYTcwMS02Mzk4Zjg3NDEzOTE",
+        "name": "Sheridan Memorial Park",
+        "address": "1300 Water St. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/sheridan_memorial_park/"
+      },
+      "text": "Northeast Water Street",
+      "place_name": "1300 Northeast Water Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "Water Street Northeast",
+      "matching_place_name": "1300 Water Street Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.273615,
+        44.999707
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.273615,
+          44.999707
+        ]
+      },
+      "address": "1300",
+      "context": [
+        {
+          "id": "neighborhood.580136172",
+          "mapbox_id": "dXJuOm1ieHBsYzpJcFFzN0E",
+          "wikidata": "Q7494866",
+          "text": "Sheridan"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3901694521169366",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjozM2E2YzQwMi1kNDlkLTRjNjUtYjg1Ni0yMmYzMTY3YjkwNTc",
+        "name": "Powderhorn Park",
+        "address": "3400 15th Ave. S Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/powderhorn_park/"
+      },
+      "text": "15th Avenue South",
+      "place_name": "3400 15th Avenue South, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.254608,
+        44.941351
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.254608,
+          44.941351
+        ]
+      },
+      "address": "3400",
+      "context": [
+        {
+          "id": "neighborhood.514501868",
+          "mapbox_id": "dXJuOm1ieHBsYzpIcXFzN0E",
+          "wikidata": "Q7236029",
+          "text": "Powderhorn Park"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8528502571294484",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.992063,
+      "properties": {
+        "accuracy": "street",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ODIzNTkwZi04ZGMwLTQzOTUtOWUxNi1iNDAxYTFkMTVmZjg",
+        "name": "Shingle Creek Park",
+        "address": "2010 50th Ave. N Minneapolis, MN 55430",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/shingle_creek_park/"
+      },
+      "text": "North 50th Avenue",
+      "place_name": "North 50th Avenue, Minneapolis, Minnesota 55430, United States",
+      "matching_text": "50th Avenue North",
+      "matching_place_name": "50th Avenue North, Minneapolis, Minnesota 55430, United States",
+      "center": [
+        -93.301725,
+        45.044195
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.301725,
+          45.044195
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.582741228",
+          "mapbox_id": "dXJuOm1ieHBsYzpJcnZzN0E",
+          "wikidata": "Q7497460",
+          "text": "Shingle Creek"
+        },
+        {
+          "id": "postcode.189460204",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMHJ1N0E",
+          "text": "55430"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.953463588946568",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo5MjE4OTUyYS00MmNhLTRkZWQtODIxMi1lOTRmMzMzOGRhYzM",
+        "name": "Lovell Square",
+        "address": "1000 James Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/lovell_square/"
+      },
+      "text": "North James Avenue",
+      "place_name": "1000 North James Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "James Avenue North",
+      "matching_place_name": "1000 James Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.30028,
+        44.987905
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30028,
+          44.987905
+        ]
+      },
+      "address": "1000",
+      "context": [
+        {
+          "id": "neighborhood.430763244",
+          "mapbox_id": "dXJuOm1ieHBsYzpHYXpzN0E",
+          "wikidata": "Q14692921",
+          "text": "Near North"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3975359825840570",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1NjJiOWZkMy02NjI0LTQyOGItYmJmZC03MDNjYTliZjIzMjM",
+        "name": "Loring Park",
+        "address": "1382 Willow St. Minneapolis, MN 55403",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/loring_park/"
+      },
+      "text": "Willow Street South",
+      "place_name": "1382 Willow Street South, Minneapolis, Minnesota 55403, United States",
+      "center": [
+        -93.28276,
+        44.96894
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28276,
+          44.96894
+        ]
+      },
+      "address": "1382",
+      "context": [
+        {
+          "id": "neighborhood.372468972",
+          "mapbox_id": "dXJuOm1ieHBsYzpGak5zN0E",
+          "wikidata": "Q6681270",
+          "text": "Loring Park"
+        },
+        {
+          "id": "postcode.189239020",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGVPN0E",
+          "text": "55403"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6067954456388958",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.797619,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1ZjVmZTVjNy1kNDRjLTQxN2UtOGQ2NS05ZjI1NTFmN2MwYzY",
+        "name": "Phelps Field Park",
+        "address": "701 E 39th St. Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/phelps_field_park/"
+      },
+      "text": "East 39th Street",
+      "place_name": "701 East 39th Street, Minneapolis, Minnesota 55409, United States",
+      "center": [
+        -93.263177,
+        44.932122
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.263177,
+          44.932122
+        ]
+      },
+      "address": "701",
+      "context": [
+        {
+          "id": "neighborhood.75836652",
+          "mapbox_id": "dXJuOm1ieHBsYzpCSVVzN0E",
+          "wikidata": "Q4980532",
+          "text": "Bryant"
+        },
+        {
+          "id": "postcode.6067954456388958",
+          "text": "55409"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3153585238645970",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMjExOTcwOS1lYzc2LTQ1ZTgtYjA4Zi1jY2ZmMWQ4N2M5ZmY",
+        "name": "Sibley Park",
+        "address": "1900 E 40th St. Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/sibley_park/"
+      },
+      "text": "East 40th Street",
+      "place_name": "1900 East 40th Street, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.244382,
+        44.93098
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.244382,
+          44.93098
+        ]
+      },
+      "address": "1900",
+      "context": [
+        {
+          "id": "neighborhood.613477612",
+          "mapbox_id": "dXJuOm1ieHBsYzpKSkRzN0E",
+          "wikidata": "Q7598636",
+          "text": "Standish"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7343156467790718",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo0MTA3YjA0My0zZThmLTRjYTgtYjhiOC1lNjgzNjIxNmI4NWQ",
+        "name": "St. Anthony Park",
+        "address": "425 Jefferson St. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/st_anthony_park/"
+      },
+      "text": "Northeast Jefferson Street",
+      "place_name": "425 Northeast Jefferson Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "Jefferson Street Northeast",
+      "matching_place_name": "425 Jefferson Street Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.25481,
+        44.9941
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25481,
+          44.9941
+        ]
+      },
+      "address": "425",
+      "context": [
+        {
+          "id": "neighborhood.613797100",
+          "mapbox_id": "dXJuOm1ieHBsYzpKSlhNN0E",
+          "wikidata": "Q7587085",
+          "text": "St. Anthony East"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4300760387974146",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjowNzkwNmQxZi0xNzA0LTQ0NTgtODVmMy1lZDhhYTI5ZWUzZjA",
+        "name": "Stevens Square",
+        "address": "1801 Stevens Ave. Minneapolis, MN 55403",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/stevens_square/"
+      },
+      "text": "Stevens Avenue South",
+      "place_name": "1801 Stevens Avenue South, Minneapolis, Minnesota 55403, United States",
+      "center": [
+        -93.274522,
+        44.964577
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.274522,
+          44.964577
+        ]
+      },
+      "address": "1801",
+      "context": [
+        {
+          "id": "neighborhood.616738028",
+          "mapbox_id": "dXJuOm1ieHBsYzpKTUtzN0E",
+          "text": "Stevens Square"
+        },
+        {
+          "id": "postcode.189239020",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGVPN0E",
+          "text": "55403"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8447354236451436",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpiM2RhMzJkOS05OTJjLTQ5MjItOTgzOC1mODRjNGI2ZmExMGE",
+        "name": "Stewart Park",
+        "address": "2700 S 12th Ave. Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/stewart_park/"
+      },
+      "text": "12th Avenue South",
+      "place_name": "2700 12th Avenue South, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.25782,
+        44.95324
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25782,
+          44.95324
+        ]
+      },
+      "address": "2700",
+      "context": [
+        {
+          "id": "neighborhood.404245740",
+          "mapbox_id": "dXJuOm1ieHBsYzpHQmhNN0E",
+          "wikidata": "Q6843099",
+          "text": "Midtown Phillips"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.740924846701346",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpjMzAzNTcwYy04MjA3LTRlMDQtYWQwMi1kMTYwYjRkZDRiZmQ",
+        "name": "Pershing Field Park",
+        "address": "3523 W 48th St. Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/pershing_field_park/"
+      },
+      "text": "West 48th Street",
+      "place_name": "3523 West 48th Street, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.32282,
+        44.915445
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.32282,
+          44.915445
+        ]
+      },
+      "address": "3523",
+      "context": [
+        {
+          "id": "neighborhood.234982636",
+          "mapbox_id": "dXJuOm1ieHBsYzpEZ0dNN0E",
+          "wikidata": "Q5508389",
+          "text": "Fulton"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4067256054256400",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoxMTllMGY1NS1jYTQxLTRjODYtYTJiMS00MzZhMzQ0ZGRhOWU",
+        "name": "Theodore Wirth Regional Park",
+        "address": "1301 Theodore Wirth Pkwy, Golden Valley, MN 55422",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/theodore_wirth_regional_park/"
+      },
+      "text": "Theodore Wirth Parkway",
+      "place_name": "1301 Theodore Wirth Parkway, Golden Valley, Minnesota 55422, United States",
+      "center": [
+        -93.323341,
+        44.992419
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.323341,
+          44.992419
+        ]
+      },
+      "address": "1301",
+      "context": [
+        {
+          "id": "postcode.189394668",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG51N0E",
+          "text": "55422"
+        },
+        {
+          "id": "place.128190700",
+          "mapbox_id": "dXJuOm1ieHBsYzpCNlFJN0E",
+          "wikidata": "Q868848",
+          "text": "Golden Valley"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554083218",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "300",
+      "text": "E 34th St",
+      "place_name": "300 E 34th St, Minneapolis, Minnesota 55408, United States",
+      "center": [
+        -93.27206,
+        44.94146
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6MzAwJTIwZSUyMDM0dGglMjBzdCUyMG1pbm5lYXBvbGlzJTIwbW4lMjA1NTQwOC0zMjE4",
+        "name": "Perkins Hill Park",
+        "address": "300 34th Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/perkins_hill_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27206,
+          44.94146
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.102845676",
+          "text": "Central",
+          "mapbox_id": "dXJuOm1ieHBsYzpCaUZNN0E"
+        },
+        {
+          "id": "postcode.189279980",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGd1N0E",
+          "text": "55408"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3190346601230718",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpiNzY0MDFjMi05ODQ0LTQ0YzItODdmOS1jNmEyODU4ZDBhOTI",
+        "name": "Todd Park",
+        "address": "5600 Chicago Ave. S Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/todd_park/"
+      },
+      "text": "Chicago Avenue South",
+      "place_name": "5600 Chicago Avenue South, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.26436,
+        44.9005
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26436,
+          44.9005
+        ]
+      },
+      "address": "5600",
+      "context": [
+        {
+          "id": "neighborhood.162884844",
+          "mapbox_id": "dXJuOm1ieHBsYzpDYlZzN0E",
+          "wikidata": "Q5270852",
+          "text": "Diamond Lake"
+        },
+        {
+          "id": "postcode.189353708",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGxPN0E",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6081797577454818",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjozMDZhNTk2Mi05ZmExLTQ3ODUtOTc1YS1jMGNmNzU1OWJhZjc",
+        "name": "Peavey Field Park",
+        "address": "730 E 22nd St. Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/peavey_field_park/"
+      },
+      "text": "East 22nd Street",
+      "place_name": "730 East 22nd Street, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.2635,
+        44.96115
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2635,
+          44.96115
+        ]
+      },
+      "address": "730",
+      "context": [
+        {
+          "id": "neighborhood.676326636",
+          "mapbox_id": "dXJuOm1ieHBsYzpLRS9zN0E",
+          "wikidata": "Q7920392",
+          "text": "Ventura Village"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.992337825168662",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5ZDM5OGY3Yi1kZWE5LTQ0ZWQtODAzMi1mNTI2YTEwNDI4NjM",
+        "name": "Longfellow Park",
+        "address": "3435 36th Ave. S Minneapolis, MN 55406",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/longfellow_park/"
+      },
+      "text": "36th Avenue South",
+      "place_name": "3435 36th Avenue South, Minneapolis, Minnesota 55406, United States",
+      "center": [
+        -93.219911,
+        44.940132
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.219911,
+          44.940132
+        ]
+      },
+      "address": "3435",
+      "context": [
+        {
+          "id": "neighborhood.305376492",
+          "mapbox_id": "dXJuOm1ieHBsYzpFak9zN0E",
+          "wikidata": "Q14692655",
+          "text": "Howe"
+        },
+        {
+          "id": "postcode.189263596",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZ1N0E",
+          "text": "55406"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7325690118156228",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo3OGFlNTI5Ni1hNGUxLTQ3M2MtODBiNi1lNjI4NWUzYzhlYjg",
+        "name": "Van Cleve Park",
+        "address": "901 15th Ave. SE Minneapolis, MN 55414",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/van_cleve_park/"
+      },
+      "text": "Southeast 15th Avenue",
+      "place_name": "901 Southeast 15th Avenue, Minneapolis, Minnesota 55414, United States",
+      "matching_text": "15th Avenue Southeast",
+      "matching_place_name": "901 15th Avenue Southeast, Minneapolis, Minnesota 55414, United States",
+      "center": [
+        -93.231176,
+        44.986749
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.231176,
+          44.986749
+        ]
+      },
+      "address": "901",
+      "context": [
+        {
+          "id": "neighborhood.130944236",
+          "mapbox_id": "dXJuOm1ieHBsYzpCODRNN0E",
+          "wikidata": "Q5155114",
+          "text": "Como (Minneapolis)"
+        },
+        {
+          "id": "postcode.189329132",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGp1N0E",
+          "text": "55414"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554131462900",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "690",
+      "text": "13th Ave NE",
+      "place_name": "690 13th Ave NE, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.25424,
+        45.00081
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6NjkwJTIwMTN0aCUyMGF2ZSUyMG5lJTIwbWlubmVhcG9saXMlMjBtbiUyMDU1NDEzLTE0NjI",
+        "name": "Logan Park",
+        "address": "690 13th Ave. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/logan_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25424,
+          45.00081
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.368839916",
+          "text": "Logan Park",
+          "mapbox_id": "dXJuOm1ieHBsYzpGZndNN0E"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3281046071068246",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpiNWYxMjI0MC00ZWI1LTQwNmQtYTcyOS0wNzQ5N2JlNGJiYWY",
+        "name": "Pearl Park",
+        "address": "414 E Diamond Lake Road Minneapolis, MN 55419",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/pearl_park/"
+      },
+      "text": "East Diamond Lake Road",
+      "place_name": "414 East Diamond Lake Road, Minneapolis, Minnesota 55419, United States",
+      "center": [
+        -93.268779,
+        44.904406
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.268779,
+          44.904406
+        ]
+      },
+      "address": "414",
+      "context": [
+        {
+          "id": "neighborhood.477875436",
+          "mapbox_id": "dXJuOm1ieHBsYzpISHZNN0E",
+          "wikidata": "Q7124206",
+          "text": "Page"
+        },
+        {
+          "id": "postcode.189370092",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG1PN0E",
+          "text": "55419"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554121012",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "4414",
+      "text": "Upton Ave N",
+      "place_name": "4414 Upton Ave N, Minneapolis, Minnesota 55412, United States",
+      "center": [
+        -93.3153,
+        45.036
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6NDQxNCUyMHVwdG9uJTIwYXZlJTIwbiUyMG1pbm5lYXBvbGlzJTIwbW4lMjA1NTQxMi0xMDEy",
+        "name": "Victory Park",
+        "address": "4414 Upton Ave. N Minneapolis, MN 55412",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/victory_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3153,
+          45.036
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.678161644",
+          "text": "Victory",
+          "mapbox_id": "dXJuOm1ieHBsYzpLR3ZzN0E"
+        },
+        {
+          "id": "postcode.189312748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGl1N0E",
+          "text": "55412"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8116467666929614",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoxOThlNzg0Mi05YTkzLTRjYjktYTc4Ny02YmIwYWMyY2UxNWM",
+        "name": "Park Siding Park",
+        "address": "3113 W 28th St. Minneapolis, MN 55416",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/park_siding_park/"
+      },
+      "text": "28th Street West",
+      "place_name": "3113 28th Street West, Minneapolis, Minnesota 55416, United States",
+      "matching_text": "W 28th St",
+      "matching_place_name": "3113 W 28th St, Minneapolis, Minnesota 55416, United States",
+      "center": [
+        -93.319825,
+        44.951615
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.319825,
+          44.951615
+        ]
+      },
+      "address": "3113",
+      "context": [
+        {
+          "id": "neighborhood.99241196",
+          "mapbox_id": "dXJuOm1ieHBsYzpCZXBNN0E",
+          "text": "Cedar-Isles-Dean"
+        },
+        {
+          "id": "postcode.189345516",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGt1N0E",
+          "text": "55416"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.211202562565256",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpiOGY4ZDIwZC0xZjg3LTQxNmItOTcxYy0yOTQ3YTEyMzI5OWY",
+        "name": "Linden Hills Park",
+        "address": "3100 W 43rd St. Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/linden_hills_park/"
+      },
+      "text": "West 43rd Street",
+      "place_name": "3100 West 43rd Street, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.31949,
+        44.925449
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31949,
+          44.925449
+        ]
+      },
+      "address": "3100",
+      "context": [
+        {
+          "id": "neighborhood.364121324",
+          "mapbox_id": "dXJuOm1ieHBsYzpGYlFNN0E",
+          "wikidata": "Q6552322",
+          "text": "Linden Hills"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.323990359099726",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpmYzlkZDJiZi0xODM5LTRhYmMtODE3YS05MTQ4ODI3NjgzZmE",
+        "name": "Lake Nokomis Park",
+        "address": "4955 W Lake Nokomis Parkway Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/lake_nokomis_park/"
+      },
+      "text": "West Lake Nokomis Parkway",
+      "place_name": "4955 West Lake Nokomis Parkway, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.243119,
+        44.911481
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.243119,
+          44.911481
+        ]
+      },
+      "address": "4955",
+      "context": [
+        {
+          "id": "neighborhood.438340844",
+          "mapbox_id": "dXJuOm1ieHBsYzpHaUNNN0E",
+          "wikidata": "Q14692946",
+          "text": "Nokomis"
+        },
+        {
+          "id": "postcode.189353708",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGxPN0E",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3838685250568514",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo2YmEzODNhNS04ZTk0LTQ4M2QtYjRiYS0yY2FiNTcwNGU1ODg",
+        "name": "Painter Park",
+        "address": "620 W 34th St. Minneapolis, MN 55408",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/painter_park/"
+      },
+      "text": "West 34th Street",
+      "place_name": "620 West 34th Street, Minneapolis, Minnesota 55408, United States",
+      "center": [
+        -93.287736,
+        44.941655
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.287736,
+          44.941655
+        ]
+      },
+      "address": "620",
+      "context": [
+        {
+          "id": "neighborhood.376597740",
+          "mapbox_id": "dXJuOm1ieHBsYzpGbkpzN0E",
+          "wikidata": "Q6708603",
+          "text": "Lyndale"
+        },
+        {
+          "id": "postcode.189279980",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGd1N0E",
+          "text": "55408"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554063760013",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "2701",
+      "text": "E 44th St",
+      "place_name": "2701 E 44th St, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.23273,
+        44.9232
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6MjcwMSUyMGUlMjA0NHRoJTIwc3QlMjBtaW5uZWFwb2xpcyUyMG1uJTIwNTU0MDYtMzc2MA",
+        "name": "Lake Hiawatha Park",
+        "address": "2701 E 44th St. Minneapolis, MN 55406",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/lake_hiawatha_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23273,
+          44.9232
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.200207596",
+          "text": "Ericsson",
+          "mapbox_id": "dXJuOm1ieHBsYzpDKzdzN0E"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3476849181699810",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjo5NTQ3ODVlZi04NDY1LTQ4MDItYWU5YS01ZjIwN2Y1NTUzNDA",
+        "name": "Northeast Athletic Field Park",
+        "address": "1615 Pierce St. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/northeast_athletic_field_park/"
+      },
+      "text": "Northeast Pierce Street",
+      "place_name": "1615 Northeast Pierce Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "Pierce Street Northeast",
+      "matching_place_name": "1615 Pierce Street Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.243572,
+        45.002322
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.243572,
+          45.002322
+        ]
+      },
+      "address": "1615",
+      "context": [
+        {
+          "id": "neighborhood.442625260",
+          "mapbox_id": "dXJuOm1ieHBsYzpHbUhzN0E",
+          "text": "Northeast"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8280110719732062",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjplMDY5MWI2Ny0zYzcwLTRjZDItYWVkYy05ZjQxNWUxZTBiMWQ",
+        "name": "Kenwood Park",
+        "address": "2101 W Franklin Ave. Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/kenwood_park/"
+      },
+      "text": "Franklin Avenue West",
+      "place_name": "2101 Franklin Avenue West, Minneapolis, Minnesota 55405, United States",
+      "matching_text": "W Franklin Ave",
+      "matching_place_name": "2101 W Franklin Ave, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.3077,
+        44.9623
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3077,
+          44.9623
+        ]
+      },
+      "address": "2101",
+      "context": [
+        {
+          "id": "neighborhood.330624236",
+          "mapbox_id": "dXJuOm1ieHBsYzpFN1RzN0E",
+          "wikidata": "Q6392498",
+          "text": "Kenwood"
+        },
+        {
+          "id": "postcode.189255404",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZPN0E",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554181423106",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "1810",
+      "text": "34th Ave NE",
+      "place_name": "1810 34th Ave NE, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.23402,
+        45.03032
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6MTgxMCUyMDM0dGglMjBhdmUlMjBuZSUyMG1pbm5lYXBvbGlzJTIwbW4lMjA1NTQxOC0xNDIz",
+        "name": "Waite Park",
+        "address": "1810 34th Ave. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/waite_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23402,
+          45.03032
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.684961004",
+          "text": "Waite Park",
+          "mapbox_id": "dXJuOm1ieHBsYzpLTk9zN0E"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8648448090518688",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo2Yzg0MzhlMS02MzlhLTQ0YTktYWZmYi0xNjM5YmI1NmQxYmQ",
+        "name": "Kenny Park",
+        "address": "1328 W 58th St. Minneapolis, MN 55419",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/kenny_park/"
+      },
+      "text": "West 58th Street",
+      "place_name": "1328 West 58th Street, Minneapolis, Minnesota 55419, United States",
+      "center": [
+        -93.296379,
+        44.898615
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.296379,
+          44.898615
+        ]
+      },
+      "address": "1328",
+      "context": [
+        {
+          "id": "neighborhood.329723116",
+          "mapbox_id": "dXJuOm1ieHBsYzpFNmNzN0E",
+          "wikidata": "Q6390943",
+          "text": "Kenny"
+        },
+        {
+          "id": "postcode.189370092",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG1PN0E",
+          "text": "55419"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.5852762701832438",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.89881,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoxMTg1YjQzNC0xMWFmLTRhNjAtODJiNi02ZTFlMTcyYzNmNDk",
+        "name": "Washburn Fair Oaks Park",
+        "address": "200 E 24th St. Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/washburn_fair_oaks_park/"
+      },
+      "text": "East 24th Street",
+      "place_name": "200 East 24th Street, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.274035,
+        44.96004
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.274035,
+          44.96004
+        ]
+      },
+      "address": "200",
+      "context": [
+        {
+          "id": "neighborhood.718146796",
+          "mapbox_id": "dXJuOm1ieHBsYzpLczRNN0E",
+          "wikidata": "Q7996860",
+          "text": "Whittier"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1304080033695560",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.992063,
+      "properties": {
+        "accuracy": "street",
+        "mapbox_id": "dXJuOm1ieGFkcjplNjg3NTI3Zi0yNmY2LTQxMTQtYjdlZC0xNjBmOWU5Nzc3ZDA",
+        "name": "North Mississippi Regional Park",
+        "address": "5116 North Mississippi Drive Minneapolis, MN 55412",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/north_mississippi_regional_park/"
+      },
+      "text": "North 41st Avenue",
+      "place_name": "North 41st Avenue, Minneapolis, Minnesota 55412, United States",
+      "matching_text": "North Mississippi Drive",
+      "matching_place_name": "North Mississippi Drive, Minneapolis, Minnesota 55412, United States",
+      "center": [
+        -93.29628,
+        45.02943
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29628,
+          45.02943
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.694676716",
+          "mapbox_id": "dXJuOm1ieHBsYzpLV2ZzN0E",
+          "wikidata": "Q7978685",
+          "text": "Webber-Camden"
+        },
+        {
+          "id": "postcode.189312748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGl1N0E",
+          "text": "55412"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2860761576832132",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo4YThlYzU1My0yZjgwLTQyOTYtYWRkYS0yOWJiODVhYzUyNGM",
+        "name": "Webber Park",
+        "address": "4300 Webber Parkway Minneapolis, MN 55412",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/webber_park/"
+      },
+      "text": "Webber Parkway",
+      "place_name": "4300 Webber Parkway, Minneapolis, Minnesota 55412, United States",
+      "center": [
+        -93.29311,
+        45.035548
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29311,
+          45.035548
+        ]
+      },
+      "address": "4300",
+      "context": [
+        {
+          "id": "neighborhood.694676716",
+          "mapbox_id": "dXJuOm1ieHBsYzpLV2ZzN0E",
+          "wikidata": "Q7978685",
+          "text": "Webber-Camden"
+        },
+        {
+          "id": "postcode.189312748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGl1N0E",
+          "text": "55412"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3356933572841182",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.797619,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMjEwY2NjMS03YWIzLTQ3YmUtYjFmMy1jNjdmY2RjODhiZmQ",
+        "name": "Whittier Park",
+        "address": "425 W 26th St. Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/whittier_park/"
+      },
+      "text": "West 26th Street",
+      "place_name": "425 West 26th Street, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.284534,
+        44.955133
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.284534,
+          44.955133
+        ]
+      },
+      "address": "425",
+      "context": [
+        {
+          "id": "neighborhood.718146796",
+          "mapbox_id": "dXJuOm1ieHBsYzpLczRNN0E",
+          "wikidata": "Q7996860",
+          "text": "Whittier"
+        },
+        {
+          "id": "postcode.3356933572841182",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.953463588946568",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjphOTM4YTY1NC05ZTJkLTQzMmEtYTk3NC1lNDA0NzNmOTIyNWQ",
+        "name": "North Commons Park",
+        "address": "1801 James Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/north_commons_park/"
+      },
+      "text": "North James Avenue",
+      "place_name": "1801 North James Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "James Avenue North",
+      "matching_place_name": "1801 James Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.301205,
+        44.997284
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.301205,
+          44.997284
+        ]
+      },
+      "address": "1801",
+      "context": [
+        {
+          "id": "neighborhood.720612588",
+          "mapbox_id": "dXJuOm1ieHBsYzpLdk9zN0E",
+          "wikidata": "Q8003359",
+          "text": "Willard-Hay"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.5525719981271264",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.936508,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjo5OGVkMTA1OC1kY2I5LTQwNzMtOTA0MC01MjFiYzZkYzMyNzU",
+        "name": "Willard Park",
+        "address": "1626 Queen Ave. N Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/willard_park/"
+      },
+      "text": "North Queen Avenue",
+      "place_name": "1626 North Queen Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "Queen Avenue North",
+      "matching_place_name": "1626 Queen Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.309195,
+        44.99644
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.309195,
+          44.99644
+        ]
+      },
+      "address": "1626",
+      "context": [
+        {
+          "id": "neighborhood.720612588",
+          "mapbox_id": "dXJuOm1ieHBsYzpLdk9zN0E",
+          "wikidata": "Q8003359",
+          "text": "Willard-Hay"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "country.8706",
+      "type": "Feature",
+      "place_type": [
+        "country"
+      ],
+      "relevance": 0.314815,
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpJZ0k",
+        "wikidata": "Q228",
+        "short_code": "ad",
+        "name": "Nokomis-Hiawatha Regional Park",
+        "address": "Shoreline of Lake Nokomis and Lake Hiawatha, including Lake Hiawatha Golf Club",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/nokomis-hiawatha_regional_park/"
+      },
+      "text": "Andorra",
+      "place_name": "Andorra",
+      "matching_text": "AND",
+      "matching_place_name": "AND",
+      "bbox": [
+        1.413638,
+        42.428731,
+        1.786451,
+        42.654863
+      ],
+      "center": [
+        1.57676643468505,
+        42.5486542501806
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.57676643468505,
+          42.5486542501806
+        ]
+      }
+    },
+    {
+      "id": "address.6813131880870240",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo4ZjQ2OWVhNC1lYzZhLTQzZjgtYjBhNS0wODFjZTAxNTRlNzY",
+        "name": "William Berry Park",
+        "address": "3810 Richfield Road Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/william_berry_park/"
+      },
+      "text": "Richfield Road",
+      "place_name": "3810 Richfield Road, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.31052,
+        44.93376
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31052,
+          44.93376
+        ]
+      },
+      "address": "3810",
+      "context": [
+        {
+          "id": "neighborhood.364121324",
+          "mapbox_id": "dXJuOm1ieHBsYzpGYlFNN0E",
+          "wikidata": "Q6552322",
+          "text": "Linden Hills"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1103268126998348",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoxM2Y1NTI4My1kY2JiLTQ4MjItOTA5ZC04NWJiNWNjYzlmYmQ",
+        "name": "Lynnhurst Park",
+        "address": "1345 W Minnehaha Parkway Minneapolis, MN 55419",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/lynnhurst_park/"
+      },
+      "text": "West Minnehaha Parkway",
+      "place_name": "1345 West Minnehaha Parkway, Minneapolis, Minnesota 55419, United States",
+      "center": [
+        -93.298631,
+        44.911747
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.298631,
+          44.911747
+        ]
+      },
+      "address": "1345",
+      "context": [
+        {
+          "id": "neighborhood.377031916",
+          "mapbox_id": "dXJuOm1ieHBsYzpGbmtNN0E",
+          "wikidata": "Q6709462",
+          "text": "Lynnhurst"
+        },
+        {
+          "id": "postcode.189370092",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG1PN0E",
+          "text": "55419"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1816721237763208",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMzdhN2U1ZC05MTA0LTRjY2EtODk1MS0zNzZlNzY0MWNlOWM",
+        "name": "Keewaydin Park",
+        "address": "3030 E 53rd St. Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/keewaydin_park/"
+      },
+      "text": "East 53rd Street",
+      "place_name": "3030 East 53rd Street, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.228442,
+        44.907428
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.228442,
+          44.907428
+        ]
+      },
+      "address": "3030",
+      "context": [
+        {
+          "id": "neighborhood.327953644",
+          "mapbox_id": "dXJuOm1ieHBsYzpFNHdzN0E",
+          "wikidata": "Q6383358",
+          "text": "Keewaydin"
+        },
+        {
+          "id": "postcode.189353708",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGxPN0E",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.456537280818756",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjozYjQ2Y2JiYS04NTE3LTRhNjItOTY1ZC02NTFhZmFhMjk3Mzg",
+        "name": "Jordan Park",
+        "address": "2927 N Irving Ave. Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/jordan_park/"
+      },
+      "text": "North Irving Avenue",
+      "place_name": "2927 North Irving Avenue, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.299945,
+        45.010485
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.299945,
+          45.010485
+        ]
+      },
+      "address": "2927",
+      "context": [
+        {
+          "id": "neighborhood.324398316",
+          "mapbox_id": "dXJuOm1ieHBsYzpFMVhzN0E",
+          "wikidata": "Q14692670",
+          "text": "Jordan"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4860793932886810",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjo3YzhkNjM4Ny03ZTg5LTRmYWMtOWNlNS03YjgzZGUxZmU1YTU",
+        "name": "Mueller Park",
+        "address": "2509 Colfax Ave. S Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/mueller_park/"
+      },
+      "text": "Colfax Avenue South",
+      "place_name": "2509 Colfax Avenue South, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.29141,
+        44.9569
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29141,
+          44.9569
+        ]
+      },
+      "address": "2509",
+      "context": [
+        {
+          "id": "neighborhood.375213292",
+          "mapbox_id": "dXJuOm1ieHBsYzpGbDFNN0E",
+          "wikidata": "Q6694160",
+          "text": "Lowry Hill East"
+        },
+        {
+          "id": "postcode.189255404",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZPN0E",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.465844092543348",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpiMDZkZmYwZS0yODE1LTQ4YTQtOGMwMy03MGE1NTQ1YzRkMDY",
+        "name": "Holmes Park",
+        "address": "414 Third Avenue SE Minneapolis, MN 55414",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/holmes_park/"
+      },
+      "text": "Northeast 3rd Avenue",
+      "place_name": "414 Northeast 3rd Avenue, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "3rd Avenue Northeast",
+      "matching_place_name": "414 3rd Avenue Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.25619,
+        44.9915
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25619,
+          44.9915
+        ]
+      },
+      "address": "414",
+      "context": [
+        {
+          "id": "neighborhood.437423340",
+          "mapbox_id": "dXJuOm1ieHBsYzpHaEtNN0E",
+          "text": "Nicollet Island"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2237809946135352",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpkYjBjNmNmMi1jY2MwLTQzYmMtYTY4OC02NWI2ODAwYTFmOTU",
+        "name": "Hi-View Park",
+        "address": "3474 Second St. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/hi-view_park/"
+      },
+      "text": "Northeast 2nd Street",
+      "place_name": "3474 Northeast 2nd Street, Minneapolis, Minnesota 55418, United States",
+      "matching_text": "2nd Street Northeast",
+      "matching_place_name": "3474 2nd Street Northeast, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.26705,
+        45.03094
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26705,
+          45.03094
+        ]
+      },
+      "address": "3474",
+      "context": [
+        {
+          "id": "neighborhood.130034924",
+          "mapbox_id": "dXJuOm1ieHBsYzpCOEFzN0E",
+          "wikidata": "Q5149782",
+          "text": "Columbia Park"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4593295665369068",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjowNTMwMTk5Mi03Y2RkLTRmZDUtOWE3Ny00MGQwNjQ2ZDgzMWI",
+        "name": "Morris Park",
+        "address": "5531 39th Ave. S Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/morris_park/"
+      },
+      "text": "39th Avenue South",
+      "place_name": "5531 39th Avenue South, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.21608,
+        44.90277
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21608,
+          44.90277
+        ]
+      },
+      "address": "5531",
+      "context": [
+        {
+          "id": "neighborhood.419384556",
+          "mapbox_id": "dXJuOm1ieHBsYzpHUDlNN0E",
+          "wikidata": "Q14692890",
+          "text": "Morris Park"
+        },
+        {
+          "id": "postcode.189353708",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGxPN0E",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7171665665225324",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoyM2MxMmU4MS0yNDEzLTQ1MDQtYjU2Yy0yMDkzNjRmOTQ5ZjY",
+        "name": "Hiawatha School Park",
+        "address": "4305 E 42nd St. Minneapolis, MN 55406",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/hiawatha_school_park/"
+      },
+      "text": "East 42nd Street",
+      "place_name": "4305 East 42nd Street, Minneapolis, Minnesota 55406, United States",
+      "center": [
+        -93.210905,
+        44.92611
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.210905,
+          44.92611
+        ]
+      },
+      "address": "4305",
+      "context": [
+        {
+          "id": "neighborhood.283127020",
+          "mapbox_id": "dXJuOm1ieHBsYzpFT0FzN0E",
+          "wikidata": "Q5750556",
+          "text": "Hiawatha"
+        },
+        {
+          "id": "postcode.189263596",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZ1N0E",
+          "text": "55406"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8747049287420032",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.719048,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpjZjg3M2QyOC1mNzdmLTQyMTItOTM0Yi0xNjVmNDliNTQxZGY",
+        "name": "Minnehaha Regional Park",
+        "address": "4801 S Minnehaha Drive Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/minnehaha_regional_park/"
+      },
+      "text": "South Minnehaha Park Drive",
+      "place_name": "4801 South Minnehaha Park Drive, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.211252,
+        44.916082
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.211252,
+          44.916082
+        ]
+      },
+      "address": "4801",
+      "context": [
+        {
+          "id": "neighborhood.283127020",
+          "mapbox_id": "dXJuOm1ieHBsYzpFT0FzN0E",
+          "wikidata": "Q5750556",
+          "text": "Hiawatha"
+        },
+        {
+          "id": "postcode.8747049287420032",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.5039902081435678",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkODI1NThkZi1lYTE0LTQ4NGQtODg0OC0zYTJlM2ZiN2YzNzc",
+        "name": "Harrison Park",
+        "address": "503 N Irving Ave. Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/harrison_park/"
+      },
+      "text": "Irving Avenue North",
+      "place_name": "503 Irving Avenue North, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.299701,
+        44.982627
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.299701,
+          44.982627
+        ]
+      },
+      "address": "503",
+      "context": [
+        {
+          "id": "neighborhood.274222316",
+          "mapbox_id": "dXJuOm1ieHBsYzpFRmhNN0E",
+          "wikidata": "Q14692635",
+          "text": "Harrison"
+        },
+        {
+          "id": "postcode.189255404",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZPN0E",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6552456229144652",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5MTVkNDk1ZS0zZDgwLTQ2MDgtODBhMS1hZDgxM2MyMjQ3MzU",
+        "name": "Hall Park",
+        "address": "1524 Aldrich Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/hall_park/"
+      },
+      "text": "North Aldrich Avenue",
+      "place_name": "1524 North Aldrich Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "Aldrich Avenue North",
+      "matching_place_name": "1524 Aldrich Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.2889,
+        44.995
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2889,
+          44.995
+        ]
+      },
+      "address": "1524",
+      "context": [
+        {
+          "id": "neighborhood.430763244",
+          "mapbox_id": "dXJuOm1ieHBsYzpHYXpzN0E",
+          "wikidata": "Q14692921",
+          "text": "Near North"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1772215688320320",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjozYzE4MjUyMi04NDNiLTQyNTQtOWE0Ni02NDEyMjkwMmQxYWU",
+        "name": "McRae Park",
+        "address": "906 E 47th St. Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/mcrae_park/"
+      },
+      "text": "East 47th Street",
+      "place_name": "906 East 47th Street, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.261153,
+        44.918418
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.261153,
+          44.918418
+        ]
+      },
+      "address": "906",
+      "context": [
+        {
+          "id": "neighborhood.449457388",
+          "mapbox_id": "dXJuOm1ieHBsYzpHc29zN0E",
+          "wikidata": "Q7059662",
+          "text": "Northrop"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2668341384084074",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpiZjU4NTdkZC02ZGRhLTQ0OTktYTFlZS0zODYzZGYxOTM0ZDQ",
+        "name": "Glen Gale Park",
+        "address": "2448 Ilion Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/glen_gale_park/"
+      },
+      "text": "North Ilion Avenue",
+      "place_name": "2448 North Ilion Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "Ilion Avenue North",
+      "matching_place_name": "2448 Ilion Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.299575,
+        45.003495
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.299575,
+          45.003495
+        ]
+      },
+      "address": "2448",
+      "context": [
+        {
+          "id": "neighborhood.324398316",
+          "mapbox_id": "dXJuOm1ieHBsYzpFMVhzN0E",
+          "wikidata": "Q14692670",
+          "text": "Jordan"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2859388506312216",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjphNGZjZmQ5Yy0zMmYwLTQ2Y2MtOTM1My0zMWU2M2NkN2IxNTc",
+        "name": "Matthews Park",
+        "address": "2318 29th Ave. S Minneapolis, MN 55406",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/matthews_park/"
+      },
+      "text": "29th Avenue South",
+      "place_name": "2318 29th Avenue South, Minneapolis, Minnesota 55406, United States",
+      "center": [
+        -93.23145,
+        44.95829
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23145,
+          44.95829
+        ]
+      },
+      "address": "2318",
+      "context": [
+        {
+          "id": "neighborhood.574344428",
+          "mapbox_id": "dXJuOm1ieHBsYzpJanZNN0E",
+          "wikidata": "Q7458169",
+          "text": "Seward"
+        },
+        {
+          "id": "postcode.189263596",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZ1N0E",
+          "text": "55406"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4826702155129512",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo3ZjdmZTVkMy0zZTMzLTRjZTctYTAxOC00ZjVmNTdiODYwZDk",
+        "name": "Fuller Park",
+        "address": "4802 Grand Ave. S Minneapolis, MN 55419",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/fuller_park/"
+      },
+      "text": "Grand Avenue South",
+      "place_name": "4802 Grand Avenue South, Minneapolis, Minnesota 55419, United States",
+      "center": [
+        -93.284779,
+        44.915762
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.284779,
+          44.915762
+        ]
+      },
+      "address": "4802",
+      "context": [
+        {
+          "id": "neighborhood.637275372",
+          "mapbox_id": "dXJuOm1ieHBsYzpKZndNN0E",
+          "wikidata": "Q7683028",
+          "text": "Tangletown"
+        },
+        {
+          "id": "postcode.189370092",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG1PN0E",
+          "text": "55419"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.341080614002910",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpiM2NjNTIyNy03MjRjLTRhYjctYmNkNi0zMjViOTNjNDcxYzU",
+        "name": "Marshall Terrace Park",
+        "address": "2740 Marshall St. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/marshall_terrace_park/"
+      },
+      "text": "Northeast Marshall Street",
+      "place_name": "2740 Northeast Marshall Street, Minneapolis, Minnesota 55418, United States",
+      "matching_text": "Marshall Street Northeast",
+      "matching_place_name": "2740 Marshall Street Northeast, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.27273,
+        45.01743
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.27273,
+          45.01743
+        ]
+      },
+      "address": "2740",
+      "context": [
+        {
+          "id": "neighborhood.387550444",
+          "mapbox_id": "dXJuOm1ieHBsYzpGeG1NN0E",
+          "wikidata": "Q6773801",
+          "text": "Marshall Terrace"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2423421056374402",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1OTc0ZWM2Mi1iNmNiLTQ5ZjQtYTBmYi00Yjk2YmQwZDkxODY",
+        "name": "Windom South Park",
+        "address": "5821 Wentworth Ave. Minneapolis, MN 55419",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/windom_south_park/"
+      },
+      "text": "Wentworth Avenue South",
+      "place_name": "5821 Wentworth Avenue South, Minneapolis, Minnesota 55419, United States",
+      "center": [
+        -93.280054,
+        44.896723
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.280054,
+          44.896723
+        ]
+      },
+      "address": "5821",
+      "context": [
+        {
+          "id": "neighborhood.726412524",
+          "mapbox_id": "dXJuOm1ieHBsYzpLMHdzN0E",
+          "wikidata": "Q8024320",
+          "text": "Windom"
+        },
+        {
+          "id": "postcode.189370092",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMG1PN0E",
+          "text": "55419"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6052222423932598",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoyNjA5MzRjZS0zNDA0LTQzN2QtODNhOS04MWFlYjk1M2IyZmE",
+        "name": "Franklin Steele Square",
+        "address": "1600 Portland Ave. S Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/franklin_steele_square/"
+      },
+      "text": "Portland Avenue South",
+      "place_name": "1600 Portland Avenue South, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.26834,
+        44.96676
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.26834,
+          44.96676
+        ]
+      },
+      "address": "1600",
+      "context": [
+        {
+          "id": "neighborhood.194751724",
+          "mapbox_id": "dXJuOm1ieHBsYzpDNXVzN0E",
+          "wikidata": "Q5365545",
+          "text": "Elliot Park"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6692799553216928",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo2MDU3N2ViMi0zMjczLTQ2N2UtYWQ2OC03ZWEwNzA5MTQ1Nzg",
+        "name": "Marcy Park",
+        "address": "711 11th Ave. SE Minneapolis, MN 55414",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/marcy_park/"
+      },
+      "text": "Southeast 11th Avenue",
+      "place_name": "711 Southeast 11th Avenue, Minneapolis, Minnesota 55414, United States",
+      "matching_text": "11th Avenue Southeast",
+      "matching_place_name": "711 11th Avenue Southeast, Minneapolis, Minnesota 55414, United States",
+      "center": [
+        -93.23762,
+        44.98576
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23762,
+          44.98576
+        ]
+      },
+      "address": "711",
+      "context": [
+        {
+          "id": "neighborhood.385092844",
+          "mapbox_id": "dXJuOm1ieHBsYzpGdlFNN0E",
+          "text": "Marcy Holmes"
+        },
+        {
+          "id": "postcode.189329132",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGp1N0E",
+          "text": "55414"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2673007781849162",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo3ZjFjZjU5NC03YzZhLTQ1YTAtYTVjNi05M2U1MzJlOGM0NTg",
+        "name": "Folwell Park",
+        "address": "1615 N Dowling Ave. Minneapolis, MN 55412",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/folwell_park/"
+      },
+      "text": "North Dowling Avenue",
+      "place_name": "1615 North Dowling Avenue, Minneapolis, Minnesota 55412, United States",
+      "center": [
+        -93.300254,
+        45.023502
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.300254,
+          45.023502
+        ]
+      },
+      "address": "1615",
+      "context": [
+        {
+          "id": "neighborhood.220384492",
+          "mapbox_id": "dXJuOm1ieHBsYzpEU0xNN0E",
+          "wikidata": "Q5464903",
+          "text": "Folwell"
+        },
+        {
+          "id": "postcode.189312748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGl1N0E",
+          "text": "55412"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.6585848628756116",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjplZWQ1NTkzYi1kMDgyLTRiMWUtOWFlNS05MTMyYWQ3NTA4MTA",
+        "name": "Farwell Park",
+        "address": "1201 N Sheridan Ave. Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/farwell_park/"
+      },
+      "text": "North Sheridan Avenue",
+      "place_name": "1201 North Sheridan Avenue, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.31271,
+        44.9903
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31271,
+          44.9903
+        ]
+      },
+      "address": "1201",
+      "context": [
+        {
+          "id": "neighborhood.720612588",
+          "mapbox_id": "dXJuOm1ieHBsYzpLdk9zN0E",
+          "wikidata": "Q8003359",
+          "text": "Willard-Hay"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3511283024009850",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5NzU3N2M1Ni1lYjFhLTRkMmMtOGJkZS03ZmNkNzFiMjVhYmM",
+        "name": "Farview Park",
+        "address": "621 N 29th Ave. Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/farview_park/"
+      },
+      "text": "North 29th Avenue",
+      "place_name": "621 North 29th Avenue, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.28727,
+        45.00907
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.28727,
+          45.00907
+        ]
+      },
+      "address": "621",
+      "context": [
+        {
+          "id": "neighborhood.276851948",
+          "mapbox_id": "dXJuOm1ieHBsYzpFSUJzN0E",
+          "wikidata": "Q5685527",
+          "text": "Hawthorne"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8618503998995008",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo2Njk0M2FiMC1hYjYzLTQxOTgtOWM0ZC1jMmUyZTUwODhjOWY",
+        "name": "Elliot Park",
+        "address": "1000 E 14th St. Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/elliot_park/"
+      },
+      "text": "East 14th Street",
+      "place_name": "1000 East 14th Street, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.25978,
+        44.96904
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25978,
+          44.96904
+        ]
+      },
+      "address": "1000",
+      "context": [
+        {
+          "id": "neighborhood.194751724",
+          "mapbox_id": "dXJuOm1ieHBsYzpDNXVzN0E",
+          "wikidata": "Q5365545",
+          "text": "Elliot Park"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554043373",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "2399",
+      "text": "17th Ave S",
+      "place_name": "2399 17th Ave S, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.24971,
+        44.95957
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6MjM5OSUyMDE3dGglMjBhdmUlMjBzJTIwbWlubmVhcG9saXMlMjBtbiUyMDU1NDA0LTMzNzM",
+        "name": "East Phillips Park",
+        "address": "2399 S 17th Ave. Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/east_phillips_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24971,
+          44.95957
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.184741100",
+          "text": "East Phillips",
+          "mapbox_id": "dXJuOm1ieHBsYzpDd0xzN0E"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1179512495219546",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkcjpjMzg0ODcwYS1kZjQ5LTRmNmUtOTk5MC1lNTc5Y2U0MWFlN2I",
+        "name": "Dickman Park",
+        "address": "614 Second St. NE Minneapolis, Minnesota 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/dickman_park/"
+      },
+      "text": "Northeast 2nd Street",
+      "place_name": "614 Northeast 2nd Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "2nd Street Northeast",
+      "matching_place_name": "614 2nd Street Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.262552,
+        44.994396
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.262552,
+          44.994396
+        ],
+        "interpolated": true
+      },
+      "address": "614",
+      "context": [
+        {
+          "id": "neighborhood.613813484",
+          "mapbox_id": "dXJuOm1ieHBsYzpKSllNN0E",
+          "wikidata": "Q7587104",
+          "text": "St. Anthony West"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554550130",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "500",
+      "text": "15th Ave SE",
+      "place_name": "500 15th Ave SE, Minneapolis, Minnesota 55414, United States",
+      "center": [
+        -93.23292,
+        44.98161
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6NTAwJTIwMTV0aCUyMGF2ZSUyMHNlJTIwbWlubmVhcG9saXMlMjBtbiUyMDU1NDU1LTAxMzA",
+        "name": "Currie Park",
+        "address": "500 15th Ave. S Minneapolis, MN 55454",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/currie_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.23292,
+          44.98161
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.668830956",
+          "text": "University of Minnesota",
+          "mapbox_id": "dXJuOm1ieHBsYzpKOTJNN0E"
+        },
+        {
+          "id": "postcode.189329132",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGp1N0E",
+          "text": "55414"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8587173909145568",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo3YWNmYzk5OC01N2FhLTQzOTUtOTQ5MS0zYjcwNmY1MDhhYzA",
+        "name": "Creekview Park",
+        "address": "5001 Humboldt Ave. N Minneapolis, MN 55430",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/creekview_park/"
+      },
+      "text": "North Humboldt Avenue",
+      "place_name": "5001 North Humboldt Avenue, Minneapolis, Minnesota 55430, United States",
+      "matching_text": "Humboldt Avenue North",
+      "matching_place_name": "5001 Humboldt Avenue North, Minneapolis, Minnesota 55430, United States",
+      "center": [
+        -93.301324,
+        45.046188
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.301324,
+          45.046188
+        ]
+      },
+      "address": "5001",
+      "context": [
+        {
+          "id": "neighborhood.582741228",
+          "mapbox_id": "dXJuOm1ieHBsYzpJcnZzN0E",
+          "wikidata": "Q7497460",
+          "text": "Shingle Creek"
+        },
+        {
+          "id": "postcode.189460204",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMHJ1N0E",
+          "text": "55430"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.953463588946568",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo3MWQ2ZTBhMi1jNmI1LTRiMzktODBhNi01ZTA5ZDgxYmNlM2Q",
+        "name": "Cottage Park",
+        "address": "2100 James Ave. N Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/cottage_park/"
+      },
+      "text": "North James Avenue",
+      "place_name": "2100 North James Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "James Avenue North",
+      "matching_place_name": "2100 James Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.30247,
+        45.00071
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.30247,
+          45.00071
+        ]
+      },
+      "address": "2100",
+      "context": [
+        {
+          "id": "neighborhood.324398316",
+          "mapbox_id": "dXJuOm1ieHBsYzpFMVhzN0E",
+          "wikidata": "Q14692670",
+          "text": "Jordan"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4072329368405614",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1NmJmNzVmOC0wMTI4LTQyMGUtYWM5YS00NTVlYzNhZDQ4YWE",
+        "name": "Corcoran Park",
+        "address": "3334 20th Ave. S Minneapolis, MN 55407",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/corcoran_park/"
+      },
+      "text": "20th Avenue South",
+      "place_name": "3334 20th Avenue South, Minneapolis, Minnesota 55407, United States",
+      "center": [
+        -93.244202,
+        44.941733
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.244202,
+          44.941733
+        ]
+      },
+      "address": "3334",
+      "context": [
+        {
+          "id": "neighborhood.134827244",
+          "mapbox_id": "dXJuOm1ieHBsYzpDQWxNN0E",
+          "wikidata": "Q5169845",
+          "text": "Corcoran"
+        },
+        {
+          "id": "postcode.189271788",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGdPN0E",
+          "text": "55407"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.8434266994827652",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjpiMmU0MDJkYi00NTRiLTRlMjEtYjcyYS1lNDkyMDc1NjNiZDI",
+        "name": "Columbia Park",
+        "address": "800 Columbia Parkway Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/columbia_park/"
+      },
+      "text": "Columbia Parkway",
+      "place_name": "800 Columbia Parkway, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.25612,
+        45.0305
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.25612,
+          45.0305
+        ]
+      },
+      "address": "800",
+      "context": [
+        {
+          "id": "neighborhood.130034924",
+          "mapbox_id": "dXJuOm1ieHBsYzpCOEFzN0E",
+          "wikidata": "Q5149782",
+          "text": "Columbia Park"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3950453666745332",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo1ZWExM2JlMC00MGM3LTQyZjItOGFhNy02OGQwOTJkMjgzNjU",
+        "name": "Clinton Field Park",
+        "address": "2433 Clinton Ave. Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/clinton_field_park/"
+      },
+      "text": "Clinton Avenue South",
+      "place_name": "2433 Clinton Avenue South, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.270865,
+        44.95773
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.270865,
+          44.95773
+        ]
+      },
+      "address": "2433",
+      "context": [
+        {
+          "id": "neighborhood.718146796",
+          "mapbox_id": "dXJuOm1ieHBsYzpLczRNN0E",
+          "wikidata": "Q7996860",
+          "text": "Whittier"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.00554122256",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "address": "3232",
+      "text": "Russell Ave N",
+      "place_name": "3232 Russell Ave N, Minneapolis, Minnesota 55412, United States",
+      "center": [
+        -93.31065,
+        45.01417
+      ],
+      "properties": {
+        "accuracy": "approximate",
+        "mapbox_id": "dXJuOm1ieGFkci1zbWE6MzIzMiUyMHJ1c3NlbGwlMjBhdmUlMjBuJTIwbWlubmVhcG9saXMlMjBtbiUyMDU1NDEyLTIyNTY",
+        "name": "Cleveland Park",
+        "address": "3232 Russell Ave. N Minneapolis, MN 55412",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/cleveland_park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.31065,
+          45.01417
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.120499436",
+          "text": "Cleveland",
+          "mapbox_id": "dXJuOm1ieHBsYzpCeTZzN0E"
+        },
+        {
+          "id": "postcode.189312748",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGl1N0E",
+          "text": "55412"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3493494706519752",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.927778,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo3N2ZmZGIzMS0zODNkLTRlODctYTQ1Zi1iYmViMGI1ODVhOTI",
+        "name": "Chergosky Park",
+        "address": "201 Seymour Ave. Minneapolis, MN 55414",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/chergosky_park/"
+      },
+      "text": "Southeast Seymour Avenue",
+      "place_name": "201 Southeast Seymour Avenue, Minneapolis, Minnesota 55414, United States",
+      "center": [
+        -93.2124,
+        44.962475
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2124,
+          44.962475
+        ]
+      },
+      "address": "201",
+      "context": [
+        {
+          "id": "neighborhood.518434028",
+          "mapbox_id": "dXJuOm1ieHBsYzpIdWFzN0E",
+          "wikidata": "Q7250792",
+          "text": "Prospect Park"
+        },
+        {
+          "id": "postcode.189329132",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGp1N0E",
+          "text": "55414"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4545977207284788",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo5MjFiZjYyOC0zMDhkLTQzNWEtYTRhNS0zZjMxOThhMjJlM2U",
+        "name": "Central Gym Park",
+        "address": "3416 S Fourth Ave. Minneapolis, MN 55408",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/central_gym_park/"
+      },
+      "text": "4th Avenue South",
+      "place_name": "3416 4th Avenue South, Minneapolis, Minnesota 55408, United States",
+      "center": [
+        -93.270524,
+        44.940278
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.270524,
+          44.940278
+        ]
+      },
+      "address": "3416",
+      "context": [
+        {
+          "id": "neighborhood.102845676",
+          "mapbox_id": "dXJuOm1ieHBsYzpCaUZNN0E",
+          "wikidata": "Q5060243",
+          "text": "Central"
+        },
+        {
+          "id": "postcode.189279980",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGd1N0E",
+          "text": "55408"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7573400220767296",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.927778,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMzI5NDAwYS02NmZiLTRkNGItOGZiNy1lZDI1NmEzYjAwMjc",
+        "name": "Cedar Avenue Field Park",
+        "address": "2500 Cedar Ave. Minneapolis, MN 55404",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/cedar_avenue_field_park/"
+      },
+      "text": "Cedar Avenue South",
+      "place_name": "2500 Cedar Avenue South, Minneapolis, Minnesota 55404, United States",
+      "center": [
+        -93.248,
+        44.95689
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.248,
+          44.95689
+        ]
+      },
+      "address": "2500",
+      "context": [
+        {
+          "id": "neighborhood.184741100",
+          "mapbox_id": "dXJuOm1ieHBsYzpDd0xzN0E",
+          "text": "East Phillips"
+        },
+        {
+          "id": "postcode.189247212",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGV1N0E",
+          "text": "55404"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7837118066684960",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "point",
+        "mapbox_id": "dXJuOm1ieGFkcjplMmE5Mjk5Ni0zMTU5LTRmZDUtYTJlYy1mMDViZDU1ZmZlZTc",
+        "name": "Cavell Park",
+        "address": "3435 Fillmore St. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/cavell_park/"
+      },
+      "text": "Northeast Fillmore Street",
+      "place_name": "3435 Northeast Fillmore Street, Minneapolis, Minnesota 55418, United States",
+      "matching_text": "Fillmore Street Northeast",
+      "matching_place_name": "3435 Fillmore Street Northeast, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.24188,
+        45.03044
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.24188,
+          45.03044
+        ]
+      },
+      "address": "3435",
+      "context": [
+        {
+          "id": "neighborhood.684961004",
+          "mapbox_id": "dXJuOm1ieHBsYzpLTk9zN0E",
+          "wikidata": "Q7960484",
+          "text": "Waite Park"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4427130341306888",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkcjplZmIxYjE5Mi04NGVlLTRkY2QtYjBiYy0yNjcxNWVlZTZlYzI",
+        "name": "Bryn Mawr Meadows Park",
+        "address": "601 Morgan Ave. S Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bryn_mawr_meadows_park/"
+      },
+      "text": "Morgan Avenue South",
+      "place_name": "601 Morgan Avenue South, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.306081,
+        44.971362
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.306081,
+          44.971362
+        ],
+        "interpolated": true,
+        "omitted": true
+      },
+      "address": "601",
+      "context": [
+        {
+          "id": "neighborhood.76049644",
+          "mapbox_id": "dXJuOm1ieHBsYzpCSWhzN0E",
+          "text": "Bryn-Mawr"
+        },
+        {
+          "id": "postcode.189255404",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZPN0E",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1670645867725086",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoyMzVmMzk0Mi04NTFkLTRkYzYtOTE3ZS03M2Y1Yzk2MzMxNDA",
+        "name": "Bryant Square Park",
+        "address": "3101 Bryant Ave. S Minneapolis, MN 55408",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bryant_square_park/"
+      },
+      "text": "Bryant Avenue South",
+      "place_name": "3101 Bryant Avenue South, Minneapolis, Minnesota 55408, United States",
+      "center": [
+        -93.290399,
+        44.946096
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.290399,
+          44.946096
+        ]
+      },
+      "address": "3101",
+      "context": [
+        {
+          "id": "neighborhood.90270956",
+          "mapbox_id": "dXJuOm1ieHBsYzpCV0ZzN0E",
+          "text": "CARAG"
+        },
+        {
+          "id": "postcode.189279980",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGd1N0E",
+          "text": "55408"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3699821027891584",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjphNDg4YjJlNC03OWQxLTQ3NDQtYTQ4MC0yMmMyZGJhODg1Mzg",
+        "name": "Brackett Field Park",
+        "address": "2728 S 39th Ave. Minneapolis, MN 55406",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/brackett_field_park/"
+      },
+      "text": "39th Avenue South",
+      "place_name": "2728 39th Avenue South, Minneapolis, Minnesota 55406, United States",
+      "center": [
+        -93.21693,
+        44.952724
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.21693,
+          44.952724
+        ]
+      },
+      "address": "2728",
+      "context": [
+        {
+          "id": "neighborhood.370691308",
+          "mapbox_id": "dXJuOm1ieHBsYzpGaGhNN0E",
+          "text": "Longfellow"
+        },
+        {
+          "id": "postcode.189263596",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZ1N0E",
+          "text": "55406"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.1179512495219546",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjoxMmJkYTcwYS04MWYzLTQyZGMtYmYwYy01ZjUyNzJkZjNhNzQ",
+        "name": "Bottineau Field Park",
+        "address": "2000 Second St. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bottineau_field_park/"
+      },
+      "text": "Northeast 2nd Street",
+      "place_name": "2000 Northeast 2nd Street, Minneapolis, Minnesota 55418, United States",
+      "matching_text": "2nd Street Northeast",
+      "matching_place_name": "2000 2nd Street Northeast, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.266918,
+        45.007752
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.266918,
+          45.007752
+        ]
+      },
+      "address": "2000",
+      "context": [
+        {
+          "id": "neighborhood.58854636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNElNN0E",
+          "wikidata": "Q4949020",
+          "text": "Bottineau"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.3622054831681788",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkcjplMDRhOTlmMC1kNTFlLTRlOWUtOGIzYi0yMGZmZjNlM2ZkYTk",
+        "name": "Bossen Field Park",
+        "address": "5701 S 28th Ave. Minneapolis, MN 55417",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bossen_field_park/"
+      },
+      "text": "28th Avenue South",
+      "place_name": "5701 28th Avenue South, Minneapolis, Minnesota 55417, United States",
+      "matching_text": "South 28th Avenue",
+      "matching_place_name": "5701 South 28th Avenue, Minneapolis, Minnesota 55417, United States",
+      "center": [
+        -93.232362,
+        44.89986
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.232362,
+          44.89986
+        ],
+        "interpolated": true,
+        "omitted": true
+      },
+      "address": "5701",
+      "context": [
+        {
+          "id": "neighborhood.697150700",
+          "mapbox_id": "dXJuOm1ieHBsYzpLWTJzN0E",
+          "text": "Wenonah"
+        },
+        {
+          "id": "postcode.189353708",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGxPN0E",
+          "text": "55417"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7392861231917956",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjozZWJmYzllMi1hM2ZiLTRmNmYtODQ0MS02ZmVhYTkxNDAyZDQ",
+        "name": "Boom Island Park",
+        "address": "724 Sibley St. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/boom_island_park/"
+      },
+      "text": "Northeast Sibley Street",
+      "place_name": "724 Northeast Sibley Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "Sibley St NE",
+      "matching_place_name": "724 Sibley St NE, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.269247,
+        44.992727
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.269247,
+          44.992727
+        ]
+      },
+      "address": "724",
+      "context": [
+        {
+          "id": "neighborhood.613813484",
+          "mapbox_id": "dXJuOm1ieHBsYzpKSllNN0E",
+          "wikidata": "Q7587104",
+          "text": "St. Anthony West"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.4748465364634680",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 0.873016,
+      "properties": {
+        "accuracy": "street",
+        "mapbox_id": "dXJuOm1ieGFkcjozYjNjMjIwZi1jMDFlLTQwZjctOWEyNi1jZjlmOTA5MmFjMDM",
+        "name": "Bohanon Park",
+        "address": "4917 Bryant Ave. N Minneapolis, MN 55430",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bohanon_park/"
+      },
+      "text": "North Bryant Avenue",
+      "place_name": "North Bryant Avenue, Minneapolis, Minnesota 55411, United States",
+      "matching_text": "Bryant Avenue North",
+      "matching_place_name": "Bryant Avenue North, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.29059,
+        44.99863
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.29059,
+          44.99863
+        ]
+      },
+      "context": [
+        {
+          "id": "neighborhood.430763244",
+          "mapbox_id": "dXJuOm1ieHBsYzpHYXpzN0E",
+          "wikidata": "Q14692921",
+          "text": "Near North"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.162661270897252",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "interpolated",
+        "mapbox_id": "dXJuOm1ieGFkcjplNGZjNWFkYy05NWI0LTQxYmQtOGFjNi0wNDg3MzcwYmE0NDM",
+        "name": "Bethune Park",
+        "address": "1304 N 10th Ave. Minneapolis, MN 55411",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bethune_park/"
+      },
+      "text": "North 10th Avenue",
+      "place_name": "1304 North 10th Avenue, Minneapolis, Minnesota 55411, United States",
+      "center": [
+        -93.295482,
+        44.988152
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.295482,
+          44.988152
+        ],
+        "interpolated": true
+      },
+      "address": "1304",
+      "context": [
+        {
+          "id": "neighborhood.430763244",
+          "mapbox_id": "dXJuOm1ieHBsYzpHYXpzN0E",
+          "wikidata": "Q14692921",
+          "text": "Near North"
+        },
+        {
+          "id": "postcode.189304556",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGlPN0E",
+          "text": "55411"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.784459774970916",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjo2ODYyOTgxMi03NTY5LTQyZDMtOWZlNi1kMTVlMWUxOTE3MDA",
+        "name": "Beltrami Park",
+        "address": "1111 Summer St. NE Minneapolis, MN 55413",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/beltrami_park/"
+      },
+      "text": "Northeast Summer Street",
+      "place_name": "1111 Northeast Summer Street, Minneapolis, Minnesota 55413, United States",
+      "matching_text": "Summer Street Northeast",
+      "matching_place_name": "1111 Summer Street Northeast, Minneapolis, Minnesota 55413, United States",
+      "center": [
+        -93.243545,
+        44.997815
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.243545,
+          44.997815
+        ]
+      },
+      "address": "1111",
+      "context": [
+        {
+          "id": "neighborhood.42355948",
+          "mapbox_id": "dXJuOm1ieHBsYzpBb1pNN0E",
+          "wikidata": "Q4884790",
+          "text": "Beltrami"
+        },
+        {
+          "id": "postcode.189320940",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGpPN0E",
+          "text": "55413"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2508806655317764",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjo1ZjA0Njc2ZS1jOWJkLTRlNjctYTk0MC0wYTkzOTRiYzQyMTU",
+        "name": "Beard’s Plaisance",
+        "address": "4525 Upton Ave. S Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/beards_plaisance/"
+      },
+      "text": "Upton Avenue South",
+      "place_name": "4525 Upton Avenue South, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.313914,
+        44.920103
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.313914,
+          44.920103
+        ]
+      },
+      "address": "4525",
+      "context": [
+        {
+          "id": "neighborhood.364121324",
+          "mapbox_id": "dXJuOm1ieHBsYzpGYlFNN0E",
+          "wikidata": "Q6552322",
+          "text": "Linden Hills"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.2856517223395860",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "parcel",
+        "mapbox_id": "dXJuOm1ieGFkcjpjOWQ3MjY0MC1iZDQ1LTRkM2MtYTlkNy00ZDQ0NDlhNzAwNTg",
+        "name": "Bassett’s Creek Park",
+        "address": "110 Penn Ave. N Minneapolis, MN 55405",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/bassetts_creek_park/"
+      },
+      "text": "Penn Avenue North",
+      "place_name": "110 Penn Avenue North, Minneapolis, Minnesota 55405, United States",
+      "center": [
+        -93.310535,
+        44.97908
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.310535,
+          44.97908
+        ]
+      },
+      "address": "110",
+      "context": [
+        {
+          "id": "neighborhood.274222316",
+          "mapbox_id": "dXJuOm1ieHBsYzpFRmhNN0E",
+          "wikidata": "Q14692635",
+          "text": "Harrison"
+        },
+        {
+          "id": "postcode.189255404",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGZPN0E",
+          "text": "55405"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.5736944097901524",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjowZDA1YTUxMC1lOTk5LTRmZjctODYwNi05OWQ4NGU4MTRjNDg",
+        "name": "Audubon Park",
+        "address": "1320 29th Ave. NE Minneapolis, MN 55418",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/audubon_park/"
+      },
+      "text": "Northeast 29th Avenue",
+      "place_name": "1320 Northeast 29th Avenue, Minneapolis, Minnesota 55418, United States",
+      "matching_text": "29th Avenue Northeast",
+      "matching_place_name": "1320 29th Avenue Northeast, Minneapolis, Minnesota 55418, United States",
+      "center": [
+        -93.239746,
+        45.020054
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.239746,
+          45.020054
+        ]
+      },
+      "address": "1320",
+      "context": [
+        {
+          "id": "neighborhood.21662956",
+          "mapbox_id": "dXJuOm1ieHBsYzpBVXFNN0E",
+          "wikidata": "Q4820246",
+          "text": "Audubon Park"
+        },
+        {
+          "id": "postcode.189361900",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGx1N0E",
+          "text": "55418"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "address.7984847288769148",
+      "type": "Feature",
+      "place_type": [
+        "address"
+      ],
+      "relevance": 1,
+      "properties": {
+        "accuracy": "rooftop",
+        "mapbox_id": "dXJuOm1ieGFkcjpkYjUzMjY1MC1hNDcyLTQzNjctOTc5My0yMDczOTdhNjIxZjA",
+        "name": "Armatage Park",
+        "address": "2500 W 57th St. Minneapolis, MN 55410",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/armatage_park/"
+      },
+      "text": "West 57th Street",
+      "place_name": "2500 West 57th Street, Minneapolis, Minnesota 55410, United States",
+      "center": [
+        -93.311288,
+        44.900729
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.311288,
+          44.900729
+        ]
+      },
+      "address": "2500",
+      "context": [
+        {
+          "id": "neighborhood.16764140",
+          "mapbox_id": "dXJuOm1ieHBsYzovOHpz",
+          "wikidata": "Q4792898",
+          "text": "Armatage"
+        },
+        {
+          "id": "postcode.189296364",
+          "mapbox_id": "dXJuOm1ieHBsYzpDMGh1N0E",
+          "text": "55410"
+        },
+        {
+          "id": "place.215132396",
+          "mapbox_id": "dXJuOm1ieHBsYzpETktvN0E",
+          "wikidata": "Q36091",
+          "text": "Minneapolis"
+        },
+        {
+          "id": "district.10200812",
+          "mapbox_id": "dXJuOm1ieHBsYzptNmJz",
+          "wikidata": "Q486229",
+          "text": "Hennepin County"
+        },
+        {
+          "id": "region.230636",
+          "mapbox_id": "dXJuOm1ieHBsYzpBNFRz",
+          "wikidata": "Q1527",
+          "short_code": "US-MN",
+          "text": "Minnesota"
+        },
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    },
+    {
+      "id": "region.206060",
+      "type": "Feature",
+      "place_type": [
+        "region"
+      ],
+      "relevance": 0.309524,
+      "properties": {
+        "mapbox_id": "dXJuOm1ieHBsYzpBeVRz",
+        "wikidata": "Q1494",
+        "short_code": "US-MS",
+        "name": "Above the Falls Regional Park",
+        "address": "East and West banks of the Mississippi River between Plymouth Avenue North & Camden Bridges",
+        "url": "https://www.minneapolisparks.org/parks-destinations/parks-lakes/above_the_falls_regional_park/"
+      },
+      "text": "Mississippi",
+      "place_name": "Mississippi, United States",
+      "bbox": [
+        -91.655009,
+        30.069094,
+        -88.097888,
+        34.996098
+      ],
+      "center": [
+        -89.7181678797461,
+        32.8566735673939
+      ],
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7181678797461,
+          32.8566735673939
+        ]
+      },
+      "context": [
+        {
+          "id": "country.8940",
+          "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+          "wikidata": "Q30",
+          "short_code": "us",
+          "text": "United States"
+        }
+      ]
+    }
+  ]
+}
