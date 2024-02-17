@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "plaympls",
+  "private_key_id": "79e9213173523ad05502cbf58b0eb9f9dcdee58a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQClBTrMJGca34HG\n1cfA2l2BxA8nHSMc227jtf9qW4whh1k1kHDzT6tDE6yZlBGYE2MzKOCwKFUV8J2+\nJM5xAkGKDi+zshPu2NXmJrZ5pd9hj5N7nghbVWdvLifTJr6n0m3QilNRGnQ977tM\nhX9iizkxcZ8HIQiROMibFhjEXeyJiOUN2zy9b8eoA1/gJzp0uBWPbrFA5hfcIehy\nUG1hpmgLElIV++z+vb+icmGIDKc+jRD1EdLqcpIYQX6RJgWiK+TO2NVvBGatkthd\n1tvKIf9RJz6n2YKd0b724cmgUki9SMw4VqzOWVJLPqlWobGDsUoyUt5QN+RuGSg+\nhY6OeK51AgMBAAECggEARO31THZcNwZrYBHGOZE9A8pQhgcOtqwWGrnX8aZB13OA\n2PX3qDp8EC20qAYIf1yB0Enf6NVADUUPrvAS53OIytD4LfhRiTA70MIU8KVPtKHT\negxd80CuTuuZqQKDGviz9CsDeFozefecZe9RcWk0P6n1QnYS7Q4qBVXqjIOrHRtM\nKzids3VhLFc7axhzQmiHBGmYC0o3JuIWbzIB1sdGnDVAjTM+xhry/wauYOCsHvXi\nlXsUtnw+WAHn1Fx3KsN8WMiEk30yQ0aA3yrAx2bSVySTmFGiaMDofTrA7PzBng+j\nw8+ZGRe91h8TC0tYSGn6KhVtcsGGkbw+R+VuPHHOVQKBgQDgZlQts6L6UwGqU79x\nN2jELDMkaC5UnTw7f3Xz919R8TTHtYu2luM13IxfmVNlhXOC15dYKs0ynvnzhy4/\nRROI/ZZ4QVK/JFmKRxijA3MYCKe5N8pshiZkgfFhAnyAnoAV4wI5MXyLA1nLldiC\n57QXbawXRKmYE2/ncyZ+KlW0fwKBgQC8QkLZUm7gyTcXIRs9bNFlCTCRL9DxQS+i\naCCvjbW2THo/XQIZAqTXITN9uUdfe7dDxp+5n5uaJLEiL7LlOMbbw3K8hv6XpKxI\nFC8pWpeCFwKfreYeluUWfPN+RJYepvzW9PLstaB/quZ0VqHaa01dOU6f124nXbrv\n07TRI1uTCwKBgQCyda8MiYhbvBfe9auSxpYzLVOe6Juv/zwftUaBN4I/EK0BBoiO\nNYGNHFEm1jFU08UBkaNzItb+IyB1ZFSLTMw0bjh0er7r9GSha9lUCzJFMtzwmEYL\n+MQfupfUpr2NLICA54ClK434oDmRhyIhOVQoLbhm6NxXbV3Zm+JJBDIU0QKBgDu5\nLanyG9jWHNMKnrCq7/cEplK4/6k5y9nS/OOUqlwOAQ5O/FZg31icYNB20ey5u9cV\nkSB7QQryrvswdKmBjJy1cZXbobML+9fWB2wwIDaWBDASJBn6Nu0ecMTTD2jkAvxS\nsypjKGq4Feo8fZZkSiPUBVxyJLD6bE6fNBLRC8EnAoGALKYxjVxpDMBUBgGVaXIh\nyucDAHd8gSQXJ9LVT9QwEpq4nXwSnbKO/JRGkjlju4CituOPYo7bvaQaDDFyH4SJ\nbS8ADdA+p4gI7OvE/lQ8hLuRimM7JtobGX1ycZgN8FO/3kOepves1M3sYYd5Em+O\nMhscKp9QQUp/KnogssziSRM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "plaympls@plaympls.iam.gserviceaccount.com",
+  "client_id": "108032297118271947443",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/plaympls%40plaympls.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
