@@ -4,7 +4,7 @@ require('dotenv').config();
 const MAPBOX_API_TOKEN = process.env.MAPBOX_API_TOKEN;
 
 async function geocodeAddresses(locationsData) {
-  const geojsonData = [];
+  const featuresArray = [];
 
   for (const location of locationsData) {
 	const mapboxApiEndpoint = `https://api.mapbox.com/geocoding/v5/mapbox.places/${encodeURIComponent(location.address)}.json?access_token=${MAPBOX_API_TOKEN}`;
@@ -15,14 +15,17 @@ async function geocodeAddresses(locationsData) {
 
 	  if (data.features && data.features.length > 0) {
 		const geojson = data.features[0];
-		geojsonData.push({ ...location, geojson });
+		Object.keys(location).forEach(key=>{
+			geojson.properties[key] = location[key];
+		});
+		featuresArray.push(geojson);
 	  }
 	} catch (error) {
 	  console.error(`Error geocoding address for ${location.name}: ${error.message}`);
 	}
   }
 
-  return geojsonData;
+  return featuresArray;
 }
 
 module.exports = geocodeAddresses;

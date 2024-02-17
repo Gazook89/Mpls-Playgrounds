@@ -89,6 +89,10 @@ async function getLocationData() {
         type: "FeatureCollection",
         author: "John Jones",
         last_modified: new Date().toISOString(),
+        source_agency: {
+            long: "Minneapolis Parks and Rec Board",
+            short: "MPRB"
+        },
         description: "This is a geojson collection of MPRB parks THAT HAVE PLAYGROUNDS as pulled from https://www.minneapolisparks.org/parks-destinations/park__destination_search/?fwp_outdoor_amenity=playground.  Processed through Mapbox APIs.",
         features: await geocodeAddresses(locationsData)
     }

@@ -69,19 +69,26 @@ sheetsApi.spreadsheets.values.get({
             jsonArray.push(row_data);
         }
 
+        console.log(jsonArray)
+
         // Perform geocoding on addresses in the JSON array
-        const geocodedLocations = {
+        const geocodedLocations = await geocodeAddresses(jsonArray);
+
+
+        const featureCollection = {
             type: "FeatureCollection",
             author: "John Jones",
             last_modified: new Date().toISOString(),
-            description: "This is a geojson collection of MPS properties as listed on https://facilities.mpls.k12.mn.us/mps_buildings.  Processed through Mapbox APIs.",    
-            features: await geocodeAddresses(jsonArray)
+            source_agency: {
+                long: "Minneapolis Public Schools",
+                short: "MPS"
+            },
+            description: "This is a geoJSON FeatureCollection of Minneapolis Public Schools properties collected from https://facilities.mpls.k12.mn.us/mps_buildings.  Processed through Mapbox APIs.",
+            features: geocodedLocations
         };
 
-
-
         // Write jsonArray to a JSON file
-        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(geocodedLocations, null, 2));
+        fs.writeFileSync(OUTPUT_FILE, JSON.stringify(featureCollection, null, 2));
         console.log(`Data has been written to ${OUTPUT_FILE}`);
     } else {
         console.log('No data found.');
