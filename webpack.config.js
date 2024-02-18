@@ -1,7 +1,6 @@
 const path = require('path');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const Dotenv = require('dotenv-webpack');
-const webpack = require('webpack');
 
 module.exports = {
     mode: 'development', // or 'production'
@@ -24,10 +23,7 @@ module.exports = {
 			{ from: 'data', to: 'data' }, 
 		  ],
 		}),
-		new Dotenv(),
-		new webpack.DefinePlugin({
-            'MAPBOX_API_TOKEN': JSON.stringify(process.env.MAPBOX_API_TOKEN),
-        }),
+		new Dotenv()
 	],
 	module: {
 		rules: [
