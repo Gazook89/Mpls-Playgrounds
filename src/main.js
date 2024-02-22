@@ -20,7 +20,7 @@ map.on('load', () => {
     (async () => {
         try {
             // Array of file paths
-            const filePaths = ['data/MPRB-Parks-scrape-results.json', 'data/MPS-Properties-output.json'];
+            const filePaths = ['data/MPRB-Parks-scrape-results.json', 'data/MPS-Properties-output.json', 'data/overpass-export.json'];
 
             // Fetch all JSON files in parallel
             const responses = await Promise.all(filePaths.map(filePath => fetch(filePath)));
@@ -30,11 +30,11 @@ map.on('load', () => {
 
             // Filter data based on category property
             const filteredDataArray = geoJSONObject.map((collection, index) => {
-                if (
+                if(
                     collection.features[0] &&
                     collection.features[0].properties &&
                     collection.features[0].properties.hasOwnProperty('category')
-                ) {
+                ){
                     return {
                         ...collection,
                         features: collection.features.filter(

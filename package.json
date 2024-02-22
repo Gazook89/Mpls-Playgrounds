@@ -23,6 +23,9 @@
     "webpack-dev-server": "^4.15.1"
   },
   "dependencies": {
+    "@turf/center-of-mass": "^6.5.0",
+    "@turf/helpers": "^6.5.0",
+    "@turf/turf": "^6.5.0",
     "csv-parser": "^3.0.0",
     "googleapis": "^129.0.0",
     "mapbox-gl": "^3.0.0"
