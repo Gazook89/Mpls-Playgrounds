@@ -20,7 +20,7 @@ map.on('load', () => {
     (async () => {
         try {
             // Array of file paths
-            const filePaths = ['data/MPRB-Parks-scrape-results.json', 'data/MPS-Properties-output.json', 'data/overpass-export.json'];
+            const filePaths = ['data/MPRB-Parks-scrape-results.json', 'data/MPS-Properties-output.json', 'data/overpass-export-refined.json'];
 
             // Fetch all JSON files in parallel
             const responses = await Promise.all(filePaths.map(filePath => fetch(filePath)));
