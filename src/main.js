@@ -17,10 +17,14 @@ const map = new mapboxgl.Map({
 // add data source and layers to map
 
 map.on('load', () => {
+
+
+
     (async () => {
         try {
             // Array of file paths
-            const filePaths = ['data/MPRB-Parks-scrape-results.json', 'data/MPS-Properties-output.json', 'data/overpass-export-refined.json'];
+            const filePaths = ['data/overpass-MPS-Playgrounds.json', 'data/overpass-MPRB-Playgrounds.json'];
+
 
             // Fetch all JSON files in parallel
             const responses = await Promise.all(filePaths.map(filePath => fetch(filePath)));
@@ -45,7 +49,6 @@ map.on('load', () => {
                     return collection;
                 }
             });
-
 
 
             // Your code to place the data on the map
