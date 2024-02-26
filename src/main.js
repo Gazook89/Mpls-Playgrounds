@@ -16,6 +16,23 @@ const map = new mapboxgl.Map({
 
 // add data source and layers to map
 
+
+let datasets = [
+    {
+        'name': 'MPS Playgrounds',
+        'path': 'data/overpass-MPS-Playgrounds.json',
+        'type': 'polygons',
+        'color': '#0A7B83',
+        'note': 'data pulled from OSM via overpass-turbo'
+    },
+    {
+        'name': 'MPRB Playgrounds',
+        'path': 'data/overpass-MPRB-Playgrounds.json',
+        'type': 'polygons',
+        'color': '#F19C65',
+        'note': 'data pulled from OSM via overpass-turbo'
+    }
+]
 map.on('load', () => {
 
 
